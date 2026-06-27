@@ -41,7 +41,7 @@ The PUBMAT file mirrors the ranked output from BREAKDOWN using XLOOKUP, then for
 A Power BI dashboard built on top of the BREAKDOWN data visualizes chart trends and individual song trajectories over time.
 
 **Output:**
-Weekly chart results are published consistently to [YouTube (Top50Singles)](https://www.linkedin.com/in/jhnmrtnvlln/) — 34K+ subscribers, 150K+ average monthly views — and Twitter/X.
+Weekly chart results are published consistently to [YouTube (Top50Singles)](https://www.youtube.com/@TheTop50Singles) — 34K+ subscribers, 150K+ average monthly views — and [X/Twitter (Top50Singles)](https://x.com/TheTop50Singles).
 
 ## A note on the data
 
