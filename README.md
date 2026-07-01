@@ -4,30 +4,29 @@ A self-built, Excel-based data pipeline that tracks Billboard Hot 100 chart perf
 
 ---
 
-## Dashboard Preview
+## From Raw Data to Published Output
 
-**Week 37 — Positions 1–25**
-![Week 37 Chart 1-25](WEEK%2037%201-25.png)
+### Power BI Dashboard
+![Power BI Dashboard](POWERBI%20DASHBOARD.png)
 
-**Week 37 — Positions 26–50**
-![Week 37 Chart 26-50](WEEK%2037%2026-50.png)
+### Weekly Chart — Excel Publication Format
+![Excel PUBMAT Weekly Chart](EXCEL%20PUBMAT%20WEEKLY%20CHART.png)
 
-**Week 37 — Positions 51–75**
-![Week 37 Chart 51-75](WEEK%2037%2051-75.png)
-
-**Week 37 — Positions 76–100**
-![Week 37 Chart 76-100](WEEK%2037%2076-100.png)
+### Published Output — Twitter/X
+![Published Chart Output](PUBLISHED%20OUTPUT.jpg)
 
 ---
 
 ## Overview
 
-This project started as a personal effort to follow weekly Billboard chart movement in more depth than the official charts show, and grew into a structured, two-layer data system:
+This project started as a personal effort to follow weekly Billboard chart movement in more depth than the official charts show, and grew into a structured, three-layer data system:
 
 1. **`HOT 100 BREAKDOWN.xlsx`** — the raw data layer. Tracks every charting song's weekly points, cumulative total, peak position, and weeks-on-chart, going back through 2025 and into 2026 (37+ weeks tracked in the current year alone).
-2. **`HOT 100 PUBMAT.xlsx`** — the publication layer. Pulls ranked data from the breakdown file using **XLOOKUP**, and formats it into a clean, ranked weekly chart used for publishing online.
-3. **`BREAKDOWN.xlsx`** — the stacked long-format data feed for Power BI — week-labeled rows enabling slicer-based filtering by chart week.
-4. **`HOT 100 PROJECT.pbix`** — the visualization layer. A Power BI dashboard built on top of the breakdown data, visualizing chart trends and individual song trajectories over time.
+2. **`BREAKDOWN.xlsx`** — the Power BI data feed. A stacked long-format version of the tracking data with week-labeled rows, structured specifically to enable slicer-based filtering by chart week in Power BI.
+3. **`HOT 100 PUBMAT.xlsx`** — the publication layer. Pulls ranked data from the breakdown file using **XLOOKUP**, and formats it into a clean, ranked weekly chart used for publishing online.
+4. **`HOT 100 PROJECT.pbix`** — the visualization layer. A Power BI dashboard built on top of the stacked data feed, visualizing chart trends and individual song trajectories over time.
+
+As of **Week 37**, the system is tracking **750+ songs** and **30,000+ individual weekly data points** across both files.
 
 ---
 
@@ -48,7 +47,7 @@ A custom point-accumulation formula calculates each song's:
 The PUBMAT file mirrors the ranked output from BREAKDOWN using XLOOKUP, then formats it into a clean weekly leaderboard showing rank, week-over-week movement (`+/-`), points, gain, peak, and weeks on chart — ready to publish.
 
 **Visualization layer:**
-The Power BI dashboard connects to the BREAKDOWN data and visualizes song chart trajectories, yearly rankings, and weekly performance trends over time.
+The Power BI dashboard connects to the stacked BREAKDOWN data and visualizes song chart trajectories, yearly rankings, and weekly performance trends over time using interactive slicers for week-by-week filtering.
 
 ---
 
@@ -57,12 +56,12 @@ The Power BI dashboard connects to the BREAKDOWN data and visualizes song chart 
 | File | Description |
 |------|-------------|
 | `HOT 100 BREAKDOWN.xlsx` | Raw weekly tracking data — 750+ songs, 30,000+ data points |
+| `BREAKDOWN.xlsx` | Stacked long-format data feed for Power BI slicer-based filtering |
 | `HOT 100 PUBMAT.xlsx` | Formatted publication output file, linked via XLOOKUP |
 | `HOT 100 PROJECT.pbix` | Power BI dashboard — open with Power BI Desktop (free) |
-| `WEEK 37 1-25.png` | Screenshot — Week 37 chart positions 1–25 |
-| `WEEK 37 26-50.png` | Screenshot — Week 37 chart positions 26–50 |
-| `WEEK 37 51-75.png` | Screenshot — Week 37 chart positions 51–75 |
-| `WEEK 37 76-100.png` | Screenshot — Week 37 chart positions 76–100 |
+| `POWERBI DASHBOARD.png` | Sample screenshot — Power BI visualization layer |
+| `EXCEL PUBMAT WEEKLY CHART.png` | Sample screenshot — Excel publication output |
+| `PUBLISHED OUTPUT.jpg` | Sample — final graphic published to social media |
 
 ---
 
@@ -70,8 +69,8 @@ The Power BI dashboard connects to the BREAKDOWN data and visualizes song chart 
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 7,706 | +293 | 1 | 35 |
-| 2 | = | Man I Need | Olivia Dean | 7,004 | +164 | 2 | 43 |
+| 1 | = | Choosin' Texas | Ella Langley | 8,000 | +294 | 1 | 36 |
+| 2 | = | Man I Need | Olivia Dean | 7,165 | +161 | 2 | 44 |
 | 3 | = | The Fate Of Ophelia | Taylor Swift | 6,487 | +0 | 1 | 32 |
 | 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,417 | +0 | 1 | 47 |
 | 5 | = | Ordinary | Alex Warren | 6,146 | +0 | 1 | 65 |
