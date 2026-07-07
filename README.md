@@ -10,10 +10,10 @@ A self-built, Excel-based data pipeline that tracks Billboard Hot 100 chart perf
 ![Power BI Dashboard](POWERBI%20DASHBOARD.png)
 
 ### Weekly Chart — Excel Publication Format
-![Excel PUBMAT Weekly Chart](EXCEL%20PUBMAT%20WEEKLY%20CHART.png)
+![Excel PUBMAT Weekly Chart](EXCEL%20PUBMAT%WEEKLY%CHART.png)
 
 ### Published Output — Twitter/X
-![Published Chart Output](PUBLISHED%20OUTPUT.jpg)
+![Published Chart Output](PUBLISH%20OUTPUT.jpg)
 
 ---
 
