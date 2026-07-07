@@ -65,12 +65,12 @@ The Power BI dashboard connects to the stacked BREAKDOWN data and visualizes son
 
 ---
 
-## Example — Week 37, 2026 (current top 5)
+## Example — Week 38, 2026 (current top 5)
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 8,000 | +294 | 1 | 36 |
-| 2 | = | Man I Need | Olivia Dean | 7,165 | +161 | 2 | 44 |
+| 1 | = | Choosin' Texas | Ella Langley | 8,302 | +302 | 1 | 37 |
+| 2 | = | Man I Need | Olivia Dean | 7,333 | +168 | 2 | 45 |
 | 3 | = | The Fate Of Ophelia | Taylor Swift | 6,487 | +0 | 1 | 32 |
 | 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,417 | +0 | 1 | 47 |
 | 5 | = | Ordinary | Alex Warren | 6,146 | +0 | 1 | 65 |
