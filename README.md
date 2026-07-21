@@ -21,7 +21,7 @@ A self-built, Excel-based data pipeline that tracks Billboard Hot 100 chart perf
 
 This project started as a personal effort to follow weekly Billboard chart movement in more depth than the official charts show, and grew into a structured, three-layer data system:
 
-1. **`HOT 100 BREAKDOWN.xlsx`** — the raw data layer. Tracks every charting song's weekly points, cumulative total, peak position, and weeks-on-chart, going back through 2025 and into 2026 (39+ weeks tracked in the current year alone).
+1. **`HOT 100 BREAKDOWN.xlsx`** — the raw data layer. Tracks every charting song's weekly points, cumulative total, peak position, and weeks-on-chart, going back through 2025 and into 2026 (40+ weeks tracked in the current year alone).
 2. **`BREAKDOWN.xlsx`** — the Power BI data feed. A stacked long-format version of the tracking data with week-labeled rows, structured specifically to enable slicer-based filtering by chart week in Power BI.
 3. **`HOT 100 PUBMAT.xlsx`** — the publication layer. Pulls ranked data from the breakdown file using **XLOOKUP**, and formats it into a clean, ranked weekly chart used for publishing online.
 4. **`HOT 100 PROJECT.pbix`** — the visualization layer. A Power BI dashboard built on top of the stacked data feed, visualizing chart trends and individual song trajectories over time.
@@ -65,12 +65,12 @@ The Power BI dashboard connects to the stacked BREAKDOWN data and visualizes son
 
 ---
 
-## Example — Week 39, 2026 (current top 5)
+## Example — Week 40, 2026 (current top 5)
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 8,302 | +294 | 1 | 38 |
-| 2 | = | Man I Need | Olivia Dean | 7,485 | +168 | 2 | 46 |
+| 1 | = | Choosin' Texas | Ella Langley | 8,881 | +285 | 1 | 39 |
+| 2 | = | Man I Need | Olivia Dean | 7,644 | +159 | 2 | 47 |
 | 3 | = | The Fate Of Ophelia | Taylor Swift | 6,487 | +0 | 1 | 32 |
 | 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,417 | +0 | 1 | 47 |
 | 5 | = | Ordinary | Alex Warren | 6,146 | +0 | 1 | 65 |
