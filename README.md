@@ -80,7 +80,7 @@ The Power BI dashboard connects to the stacked BREAKDOWN data and visualizes son
 ## Output & Publication
 
 Weekly chart results are published consistently to:
-- 📺 [YouTube — Top50Singles](https://www.youtube.com/@TheTop50Singles) — 34K+ subscribers, 150K+ average monthly views
+- 📺 [YouTube — Top50Singles](https://www.youtube.com/@TheTop50Singles) — 35K+ subscribers, 150K+ average monthly views
 - 🐦 [Twitter/X — @TheTop50Singles](https://x.com/TheTop50Singles)
 
 ---
