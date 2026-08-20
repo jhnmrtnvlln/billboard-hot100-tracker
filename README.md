@@ -32,7 +32,7 @@ The rebuild wasn't just automation for its own sake — it fixed several real pr
 ![Excel PUBMAT Weekly Chart](v2-python-automated/h100_pubmat_table.png)
 
 ### Published Output — Twitter/X
-![Published Chart Output](v2-python-automated/h100_pubmat_final.png)
+![Published Chart Output](v2-python-automated/h100_pubmat_final.jpg)
 
 ---
 
