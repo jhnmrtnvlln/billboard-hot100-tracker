@@ -45,7 +45,7 @@ What started as a personal effort to follow weekly Billboard chart movement in m
 3. **`h100_pubmat.xlsx`** — the publication layer. Pulls ranked data from the wide-format file via XLOOKUP and formats it into a clean, ranked weekly chart used for publishing online.
 4. **`h100_dashboard.pbix`** — the visualization layer. A Power BI dashboard built on a proper relational model (fact table, Songs dimension, Calendar dimension, Year-End Periods table), visualizing chart trends and rankings with dynamic date-based slicing.
 
-As of **Week 44**, the system is tracking **750+ songs** and **30,000+ individual weekly data points**.
+As of **Week 44**, the system is tracking **750+ songs** and **40,000+ individual weekly data points**.
 
 ---
 
