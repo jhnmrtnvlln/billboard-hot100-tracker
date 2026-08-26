@@ -45,7 +45,7 @@ What started as a personal effort to follow weekly Billboard chart movement in m
 3. **`h100_pubmat.xlsx`** — the publication layer. Pulls ranked data from the wide-format file via XLOOKUP and formats it into a clean, ranked weekly chart used for publishing online.
 4. **`h100_dashboard.pbix`** — the visualization layer. A Power BI dashboard built on a proper relational model (fact table, Songs dimension, Calendar dimension, Year-End Periods table), visualizing chart trends and rankings with dynamic date-based slicing.
 
-As of **Week 44**, the system is tracking **750+ songs** and **40,000+ individual weekly data points**.
+As of **Week 45**, the system is tracking **750+ songs** and **40,000+ individual weekly data points**.
 
 ---
 
@@ -96,12 +96,12 @@ The Power BI dashboard connects to the raw long-format data through a relational
 
 ---
 
-## Example — Week 44, 2026 (current top 5)
+## Example — Week 45, 2026 (current top 5)
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 10,071 | +298 | 1 | 43 |
-| 2 | = | Man I Need | Olivia Dean | 8,243 | +148 | 2 | 51 |
+| 1 | = | Choosin' Texas | Ella Langley | 10,364 | +293 | 1 | 44 |
+| 2 | = | Man I Need | Olivia Dean | 8,391 | +148 | 2 | 52 |
 | 3 | = | The Fate Of Ophelia | Taylor Swift | 6,487 | +0 | 1 | 32 |
 | 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,417 | +0 | 1 | 47 |
 | 5 | = | Ordinary | Alex Warren | 6,146 | +0 | 1 | 65 |
