@@ -104,7 +104,7 @@ The Power BI dashboard connects to the raw long-format data through a relational
 | 2 | = | Man I Need | Olivia Dean | 8,681 | +144 | 2 | 54 |
 | 3 | = | The Fate Of Ophelia | Taylor Swift | 6,490 | +0 | 1 | 32 |
 | 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,323 | +0 | 1 | 47 |
-| 5 | +1 | I Just Might | Bruno Mars | 6,147 | +120 | 1 | 34 |
+| 5 | +1 | I Just Might | Bruno Mars | 6,249 | +120 | 1 | 34 |
 
 
 ---
