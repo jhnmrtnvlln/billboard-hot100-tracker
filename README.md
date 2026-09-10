@@ -100,10 +100,10 @@ The Power BI dashboard connects to the raw long-format data through a relational
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 10,658 | +297 | 1 | 46 |
-| 2 | = | Man I Need | Olivia Dean | 8,537 | +144 | 2 | 54 |
-| 3 | = | The Fate Of Ophelia | Taylor Swift | 6,487 | +0 | 1 | 32 |
-| 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,417 | +0 | 1 | 47 |
+| 1 | = | Choosin' Texas | Ella Langley | 10,955 | +297 | 1 | 46 |
+| 2 | = | Man I Need | Olivia Dean | 8,681 | +144 | 2 | 54 |
+| 3 | = | The Fate Of Ophelia | Taylor Swift | 6,490 | +0 | 1 | 32 |
+| 4 | = | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,323 | +0 | 1 | 47 |
 | 5 | +1 | I Just Might | Bruno Mars | 6,147 | +120 | 1 | 34 |
 
 
