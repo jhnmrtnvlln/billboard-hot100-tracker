@@ -45,7 +45,7 @@ What started as a personal effort to follow weekly Billboard chart movement in m
 3. **`h100_pubmat.xlsx`** — the publication layer. Pulls ranked data from the wide-format file via XLOOKUP and formats it into a clean, ranked weekly chart used for publishing online.
 4. **`h100_dashboard.pbix`** — the visualization layer. A Power BI dashboard built on a proper relational model (fact table, Songs dimension, Calendar dimension, Year-End Periods table), visualizing chart trends and rankings with dynamic date-based slicing.
 
-As of **Week 48**, the system is tracking **750+ songs** and **40,000+ individual weekly data points**.
+As of **Week 49**, the system is tracking **750+ songs** and **40,000+ individual weekly data points**.
 
 ---
 
@@ -96,15 +96,15 @@ The Power BI dashboard connects to the raw long-format data through a relational
 
 ---
 
-## Example — Week 48, 2026 (current top 5)
+## Example — Week 49, 2026 (current top 5)
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 11,245 | +290 | 1 | 47 |
-| 2 | = | Man I Need | Olivia Dean | 8,818 | +137 | 2 | 55 |
+| 1 | = | Choosin' Texas | Ella Langley | 11,519 | +274 | 1 | 48 |
+| 2 | = | Man I Need | Olivia Dean | 8,955 | +137 | 2 | 56 |
 | 3 | = | The Fate Of Ophelia | Taylor Swift | 6,490 | +0 | 1 | 32 |
-| 4 | +1 | I Just Might | Bruno Mars | 6,367 | +118 | 1 | 35 |
-| 5 | -1 | Golden | HUNTR/X: EJAE, Audrey Nuna & REI AMI | 6,323 | +0 | 1 | 48 |
+| 4 | = | I Just Might | Bruno Mars | 6,486 | +119 | 1 | 36 |
+| 5 | +1 | So Easy (To Fall In Love) | Olivia Dean | 6,455 | +140 | 1 | 51 |
 
 
 ---
