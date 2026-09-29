@@ -100,7 +100,7 @@ The Power BI dashboard connects to the raw long-format data through a relational
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 11,796 | +274 | 1 | 49 |
+| 1 | = | Choosin' Texas | Ella Langley | 11,796 | +277 | 1 | 49 |
 | 2 | = | Man I Need | Olivia Dean | 9,090 | +135 | 2 | 57 |
 | 3 | +1 | I Just Might | Bruno Mars | 6,605 | +119 | 1 | 37 |
 | 4 | +1 | So Easy (To Fall In Love) | Olivia Dean | 6,595 | +140 | 1 | 52 |
