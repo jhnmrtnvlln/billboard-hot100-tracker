@@ -45,7 +45,7 @@ What started as a personal effort to follow weekly Billboard chart movement in m
 3. **`h100_pubmat.xlsx`** — the publication layer. Pulls ranked data from the wide-format file via XLOOKUP and formats it into a clean, ranked weekly chart used for publishing online.
 4. **`h100_dashboard.pbix`** — the visualization layer. A Power BI dashboard built on a proper relational model (fact table, Songs dimension, Calendar dimension, Year-End Periods table), visualizing chart trends and rankings with dynamic date-based slicing.
 
-As of **Week 51**, the system is tracking **751+ songs** and **40,000+ individual weekly data points**.
+As of **Week 52**, the system is tracking **752+ songs** and **40,000+ individual weekly data points**.
 
 ---
 
@@ -96,13 +96,13 @@ The Power BI dashboard connects to the raw long-format data through a relational
 
 ---
 
-## Example — Week 51, 2026 (current top 5)
+## Example — YEAR-END 2026 (top 5)
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 12,074 | +278 | 1 | 50 |
+| 1 | = | Choosin' Texas | Ella Langley | 12,337 | +263 | 1 | 51 |
 | 2 | = | Man I Need | Olivia Dean | 9,090 | +0 | 2 | 57 |
-| 3 | = | I Just Might | Bruno Mars | 6,720 | +115 | 1 | 38 |
+| 3 | = | I Just Might | Bruno Mars | 6,836 | +116 | 1 | 39 |
 | 4 | = | So Easy (To Fall In Love) | Olivia Dean | 6,595 | +0 | 1 | 52 |
 | 5 | = | The Fate Of Ophelia | Taylor Swift | 6,490 | +0 | 1 | 32 |
 
@@ -112,8 +112,8 @@ The Power BI dashboard connects to the raw long-format data through a relational
 ## Output & Publication
 
 Weekly chart results are published consistently to:
-- 📺 [YouTube — Top51Singles](https://www.youtube.com/@TheTop51Singles) — 35K+ subscribers, 151K+ average monthly views
-- 🐦 [Twitter/X — @TheTop51Singles](https://x.com/TheTop51Singles)
+- 📺 [YouTube — Top52Singles](https://www.youtube.com/@TheTop52Singles) — 35K+ subscribers, 152K+ average monthly views
+- 🐦 [Twitter/X — @TheTop52Singles](https://x.com/TheTop52Singles)
 
 ---
 
@@ -139,5 +139,5 @@ The v1 files represent the system as it operated through most of that history. T
 Built and maintained by **John Martin S. Villena**, BS Information Technology graduate (Business Analytics) from Bulacan State University.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jhnmrtnvlln/)
-📺 [YouTube](https://www.youtube.com/@TheTop51Singles)
-🐦 [Twitter/X](https://x.com/TheTop51Singles)
+📺 [YouTube](https://www.youtube.com/@TheTop52Singles)
+🐦 [Twitter/X](https://x.com/TheTop52Singles)
