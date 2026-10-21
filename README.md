@@ -172,7 +172,7 @@ The final image is exported with Excel's **Copy as Picture → Save as Picture (
 | 2 | = | Man I Need | Olivia Dean | 7,583 | +0 | 2 | 57 |
 | 3 | = | I Just Might | Bruno Mars | 6,950 | +114 | 1 | 40 |
 | 4 | = | So Easy (To Fall In Love) | Olivia Dean | 5,926 | +0 | 1 | 52 |
-| 5 | = | Be Her | Ella Langley | 6,490 | +106 | 2 | 35 |
+| 5 | = | Be Her | Ella Langley | 5,542 | +106 | 2 | 35 |
 
 ---
 
