@@ -207,4 +207,4 @@ Built and maintained by **John Martin S. Villena**, BS Information Technology gr
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jhnmrtnvlln/)
 📺 [YouTube](https://www.youtube.com/@TheTop52Singles)
-🐦 [Twitter/X](https://x.com/TheTop52Singles)
+🐦 [Twitter/X](https://x.com/TheTop50Singles)
