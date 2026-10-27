@@ -160,7 +160,7 @@ The final image is exported with Excel's **Copy as Picture → Save as Picture (
 | `h100_dashboard.pbix` | Rebuilt Power BI dashboard — open with Power BI Desktop (free) |
 | `h100_dashboard_screenshot.png` | Sample screenshot — Power BI visualization layer |
 | `h100_pubmat_table.png` | Sample screenshot — Excel publication output |
-| `h100_pubmat_final.JPg` | Sample — final graphic published to social media |
+| `h100_pubmat_final.jpg` | Sample — final graphic published to social media |
 
 ---
 
@@ -168,19 +168,19 @@ The final image is exported with Excel's **Copy as Picture → Save as Picture (
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 11 ,735 | +263 | 1 | 52 |
+| 1 | = | Choosin' Texas | Ella Langley | 11,991 | +256 | 1 | 53 |
 | 2 | = | Man I Need | Olivia Dean | 7,583 | +0 | 2 | 57 |
-| 3 | = | I Just Might | Bruno Mars | 6,950 | +114 | 1 | 40 |
+| 3 | = | I Just Might | Bruno Mars | 7,060 | +110 | 1 | 41 |
 | 4 | = | So Easy (To Fall In Love) | Olivia Dean | 5,926 | +0 | 1 | 52 |
-| 5 | = | Be Her | Ella Langley | 5,542 | +106 | 2 | 35 |
+| 5 | = | Be Her | Ella Langley | 5,5641 | +99 | 2 | 36 |
 
 ---
 
 ## Output & Publication
 
 Weekly chart results are published consistently to:
-- 📺 [YouTube — Top52Singles](https://www.youtube.com/@TheTop52Singles) — 35K+ subscribers, 152K+ average monthly views
-- 🐦 [Twitter/X — @TheTop52Singles](https://x.com/TheTop52Singles)
+- 📺 [YouTube — Top50Singles](https://www.youtube.com/@TheTop50Singles) — 35K+ subscribers, 152K+ average monthly views
+- 🐦 [Twitter/X — @TheTop50Singles](https://x.com/TheTop50Singles)
 
 ---
 
@@ -206,5 +206,6 @@ The v1 files represent the system as it operated through most of that history. T
 Built and maintained by **John Martin S. Villena**, BS Information Technology graduate (Business Analytics) from Bulacan State University.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jhnmrtnvlln/)
-📺 [YouTube](https://www.youtube.com/@TheTop52Singles)
+📺 [YouTube](https://www.youtube.com/@TheTop50Singles)
 🐦 [Twitter/X](https://x.com/TheTop50Singles)
+💻 [GitHub](https://github.com/jhnmrtnvlln)
