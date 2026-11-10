@@ -50,7 +50,7 @@ What started as a personal effort to follow weekly Billboard chart movement in m
 3. **`h100_pubmat.xlsx`** — the publication layer. Pulls ranked data from the wide-format file via XLOOKUP and formats it into a clean, ranked weekly chart used for publishing online. Light and dark versions are both maintained, and the colors are driven by conditional formatting rules rather than manual fills.
 4. **`h100_dashboard.pbix`** — the visualization layer. A Power BI dashboard built on a proper relational model (fact table, Songs dimension, Calendar dimension, Year-End Periods table), visualizing chart trends and rankings with dynamic date-based slicing.
 
-As of **November 7, 2026**, the system is tracking **1000+ songs** and **40,000+ individual weekly data points**.
+As of **November 14, 2026**, the system is tracking **1000+ songs** and **40,000+ individual weekly data points**.
 
 ---
 
@@ -166,11 +166,11 @@ The final image is exported with Excel's **Copy as Picture → Save as Picture (
 
 | Rank | +/- | Song | Artist | Points | Gain | Peak | WO |
 |------|-----|------|--------|--------|------|------|----|
-| 1 | = | Choosin' Texas | Ella Langley | 12,236 | +245 | 1 | 54 |
+| 1 | = | Choosin' Texas | Ella Langley | 12,472 | +236 | 1 | 55 |
 | 2 | = | Man I Need | Olivia Dean | 7,583 | +0 | 2 | 57 |
-| 3 | = | I Just Might | Bruno Mars | 7,165 | +105 | 1 | 42 |
+| 3 | = | I Just Might | Bruno Mars | 7,268 | +103 | 1 | 43 |
 | 4 | = | So Easy (To Fall In Love) | Olivia Dean | 5,926 | +0 | 1 | 52 |
-| 5 | = | Be Her | Ella Langley | 5,5641 | +94 | 2 | 37 |
+| 5 | = | Be Her | Ella Langley | 5,824 | +89 | 2 | 38 |
 
 ---
 
