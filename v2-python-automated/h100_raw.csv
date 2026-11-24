@@ -1,103 +1,203 @@
 chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
+28/11/2026,1,Choosin' Texas,Ella Langley,1,1,57,210,Choosin' Texas|Ella Langley|46354
+28/11/2026,2,Boston,Stella Lefty,2,2,33,152,Boston|Stella Lefty|46354
+28/11/2026,3,Dracula,Tame Impala & JENNIE,3,3,60,136,Dracula|Tame Impala & JENNIE|46354
+28/11/2026,4,All I Want For Christmas Is You,Mariah Carey,18,1,82,134.67,All I Want For Christmas Is You|Mariah Carey|46354
+28/11/2026,5,Last Christmas,Wham!,14,2,56,134.33,Last Christmas|Wham!|46354
+28/11/2026,6,Housewife,Tate McRae,4,2,5,134,Housewife|Tate McRae|46354
+28/11/2026,7,Stupid Song,Olivia Rodrigo,5,3,23,132,Stupid Song|Olivia Rodrigo|46354
+28/11/2026,8,BbY WOW,Karol G With Judeline & rusowsky,6,6,15,130,BbY WOW|Karol G With Judeline & rusowsky|46354
+28/11/2026,9,Jingle Bell Rock,Bobby Helms,28,2,70,118.67,Jingle Bell Rock|Bobby Helms|46354
+28/11/2026,10,Nicole Kidman,ADELA,7,6,11,118.33,Nicole Kidman|ADELA|46354
+28/11/2026,11,Stop The Wedding!,Ashe,12,11,11,118,Stop The Wedding!|Ashe|46354
+28/11/2026,12,Patient Zero,Taylor Swift,10,1,8,114,Patient Zero|Taylor Swift|46354
+28/11/2026,13,Hate That I Made You Love Me,Ariana Grande,8,1,25,112.5,Hate That I Made You Love Me|Ariana Grande|46354
+28/11/2026,14,Rockin' Around The Christmas Tree,Brenda Lee,30,1,73,112,Rockin' Around The Christmas Tree|Brenda Lee|46354
+28/11/2026,15,Jaded,Koe Wetzel & Ella Langley,11,11,15,108,Jaded|Koe Wetzel & Ella Langley|46354
+28/11/2026,16,Babydoll,Dominic Fike,13,10,41,101,Babydoll|Dominic Fike|46354
+28/11/2026,17,Last Thing You Need,Morgan Wallen,21,9,9,99,Last Thing You Need|Morgan Wallen|46354
+28/11/2026,18,Been By Now,Morgan Wallen,9,2,17,97,Been By Now|Morgan Wallen|46354
+28/11/2026,19,I Just Might,Bruno Mars,15,1,45,95.5,I Just Might|Bruno Mars|46354
+28/11/2026,20,Expectations,Olivia Rodrigo & Chappell Roan,17,3,23,95,Expectations|Olivia Rodrigo & Chappell Roan|46354
+28/11/2026,21,Loving Life Again,Ella Langley,16,16,35,92,Loving Life Again|Ella Langley|46354
+28/11/2026,22,Be Her,Ella Langley,20,2,40,90.5,Be Her|Ella Langley|46354
+28/11/2026,23,Santa Tell Me,Ariana Grande,43,5,38,90,Santa Tell Me|Ariana Grande|46354
+28/11/2026,24,Earrings,Malcolm Todd,23,17,38,89.5,Earrings|Malcolm Todd|46354
+28/11/2026,25,Lies,Zach Bryan Featuring Lana Del Rey,19,4,5,89,Lies|Zach Bryan Featuring Lana Del Rey|46354
+28/11/2026,26,My Body Isn't Ready,sombr,26,26,21,87,My Body Isn't Ready|sombr|46354
+28/11/2026,27,It's The Most Wonderful Time Of The Year,Andy Williams,47,5,54,85,It's The Most Wonderful Time Of The Year|Andy Williams|46354
+28/11/2026,28,Underneath The Tree,Kelly Clarkson,45,7,41,84,Underneath The Tree|Kelly Clarkson|46354
+28/11/2026,29,Ain't In LA,ADELA,27,24,16,79.5,Ain't In LA|ADELA|46354
+28/11/2026,30,Babydoll,Jamie Miller,37,30,9,79,Babydoll|Jamie Miller|46354
+28/11/2026,31,The Christmas Song (Merry Christmas To You),"Nat ""King"" Cole",-,6,57,75,"The Christmas Song (Merry Christmas To You)|Nat ""King"" Cole|46354"
+28/11/2026,32,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,-,7,43,74.75,Let It Snow! Let It Snow! Let It Snow!|Dean Martin|46354
+28/11/2026,33,Sleigh Ride,The Ronettes,-,8,40,74.5,Sleigh Ride|The Ronettes|46354
+28/11/2026,34,The Cure,Olivia Rodrigo,33,5,26,74.25,The Cure|Olivia Rodrigo|46354
+28/11/2026,35,Orbiter,Noah Kahan,35,33,30,74,Orbiter|Noah Kahan|46354
+28/11/2026,36,Take Me Back (Leave Me There),Cody Johnson,31,31,14,71,Take Me Back (Leave Me There)|Cody Johnson|46354
+28/11/2026,37,Petal,Ariana Grande,36,4,16,70,Petal|Ariana Grande|46354
+28/11/2026,38,Animal,KATSEYE,34,24,17,69.5,Animal|KATSEYE|46354
+28/11/2026,39,It's Beginning To Look A Lot Like Christmas,Michael Buble,-,12,32,69,It's Beginning To Look A Lot Like Christmas|Michael Buble|46354
+28/11/2026,40,Christmas (Baby Please Come Home),Darlene Love,-,14,33,68.5,Christmas (Baby Please Come Home)|Darlene Love|46354
+28/11/2026,41,Dead Fresh,Lil Baby,25,18,18,68,Dead Fresh|Lil Baby|46354
+28/11/2026,42,Feliz Navidad,Jose Feliciano,-,6,44,66.5,Feliz Navidad|Jose Feliciano|46354
+28/11/2026,43,Loser,Tame Impala,39,18,17,66,Loser|Tame Impala|46354
+28/11/2026,44,"Phone, Keys, Wallet",Lainey Wilson & John Mayer,50,43,24,65.67,"Phone, Keys, Wallet|Lainey Wilson & John Mayer|46354"
+28/11/2026,45,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",68,45,5,65.33,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46354"
+28/11/2026,46,Rethink Some Things,Luke Combs,40,29,34,65,Rethink Some Things|Luke Combs|46354
+28/11/2026,47,A Holly Jolly Christmas,Burl Ives,-,4,52,64,A Holly Jolly Christmas|Burl Ives|46354
+28/11/2026,48,WTF GOIN,Belly Gang Kushington & 21 Savage,44,43,13,62.5,WTF GOIN|Belly Gang Kushington & 21 Savage|46354
+28/11/2026,49,So Good,Jhene Aiko Featuring Kendrick Lamar,41,26,10,62,So Good|Jhene Aiko Featuring Kendrick Lamar|46354
+28/11/2026,50,Lush Life,Zara Larsson,42,35,35,59.67,Lush Life|Zara Larsson|46354
+28/11/2026,51,Party With The Boys,Don Toliver,-,51,1,59.33,Party With The Boys|Don Toliver|46354
+28/11/2026,52,Great Expectation,Sienna Spiro,46,38,20,59,Great Expectation|Sienna Spiro|46354
+28/11/2026,53,Nothing,Steve Lacy,52,52,9,56.5,Nothing|Steve Lacy|46354
+28/11/2026,54,Get To Drinkin',Zach John King,53,53,11,56,Get To Drinkin'|Zach John King|46354
+28/11/2026,55,Empty Words,Corey Kent,51,43,23,54.5,Empty Words|Corey Kent|46354
+28/11/2026,56,Oh Yeah?,Steve Lacy,49,19,16,54,Oh Yeah?|Steve Lacy|46354
+28/11/2026,57,Think As You Drunk,Riley Green,55,31,21,53,Think As You Drunk|Riley Green|46354
+28/11/2026,58,Something To Lose,Stella Lefty With Vincent Mason,57,40,25,50.5,Something To Lose|Stella Lefty With Vincent Mason|46354
+28/11/2026,59,Self Aware,Temper City,58,35,32,50,Self Aware|Temper City|46354
+28/11/2026,60,Coming Up Roses,Harry Styles,54,18,10,49,Coming Up Roses|Harry Styles|46354
+28/11/2026,61,The Feeling,Steve Lacy,61,60,18,48.75,The Feeling|Steve Lacy|46354
+28/11/2026,62,Cold Shoulder,"Drake, Don Toliver & Yebba",62,18,7,48.5,"Cold Shoulder|Drake, Don Toliver & Yebba|46354"
+28/11/2026,63,Solar Eclipse,Drake & Don Toliver,56,5,7,48.25,Solar Eclipse|Drake & Don Toliver|46354
+28/11/2026,64,Ya Hit,"Future Featuring Drake, Travis Scott & Loe Shimmy",38,38,2,48,"Ya Hit|Future Featuring Drake, Travis Scott & Loe Shimmy|46354"
+28/11/2026,65,Painted You Pretty,Hudson Westbrook,64,64,13,46,Painted You Pretty|Hudson Westbrook|46354
+28/11/2026,66,Bloodstream,Alyssa Grace,59,45,20,45.5,Bloodstream|Alyssa Grace|46354
+28/11/2026,67,Say So,Dan + Shay,67,66,11,45,Say So|Dan + Shay|46354
+28/11/2026,68,Cowgirl,Shaboozey,66,42,20,43,Cowgirl|Shaboozey|46354
+28/11/2026,69,Freakin' Out,Dexter And The Moonrocks,65,33,35,42.5,Freakin' Out|Dexter And The Moonrocks|46354
+28/11/2026,70,AH HA,Cardi B,63,25,16,42,AH HA|Cardi B|46354
+28/11/2026,71,Draw You Out,Noah Kahan,77,25,7,40,Draw You Out|Noah Kahan|46354
+28/11/2026,72,Take Me Home (4 Christmas),Olivia Rodrigo,32,32,2,39,Take Me Home (4 Christmas)|Olivia Rodrigo|46354
+28/11/2026,73,Here Then We're Gone,Ella Langley,-,73,1,37.67,Here Then We're Gone|Ella Langley|46354
+28/11/2026,74,Snakeskin Boots,Miranda Lambert & Ella Langley,76,42,7,37.33,Snakeskin Boots|Miranda Lambert & Ella Langley|46354
+28/11/2026,75,Quebec,Drake,71,11,7,37,Quebec|Drake|46354
+28/11/2026,76,Duvet,boa,84,75,9,36,Duvet|boa|46354
+28/11/2026,77,Hands Up,Jelly Roll,78,74,14,35,Hands Up|Jelly Roll|46354
+28/11/2026,78,Cigarette Smoke,Olivia Rodrigo,79,27,11,34,Cigarette Smoke|Olivia Rodrigo|46354
+28/11/2026,79,No Need For Leavin',Kameron Marlowe,75,75,9,33.83,No Need For Leavin'|Kameron Marlowe|46354
+28/11/2026,80,From The Back,Lil Baby,70,70,2,33.67,From The Back|Lil Baby|46354
+28/11/2026,81,Pouring,Mack Geiger,73,73,2,33.5,Pouring|Mack Geiger|46354
+28/11/2026,82,String By,Mack Geiger,72,71,13,33.33,String By|Mack Geiger|46354
+28/11/2026,83,Suzuki,Fuerza Regida,-,83,1,33.17,Suzuki|Fuerza Regida|46354
+28/11/2026,84,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,82,58,8,33,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46354
+28/11/2026,85,Bet On That,Blake Whiten,83,81,13,32,Bet On That|Blake Whiten|46354
+28/11/2026,86,Anytime Soon,Jason Aldean,91,86,3,31.75,Anytime Soon|Jason Aldean|46354
+28/11/2026,87,Unethical,Faouzia,95,87,2,31.5,Unethical|Faouzia|46354
+28/11/2026,88,Okayyy,Latto Featuring Doja Cat,93,88,3,31.25,Okayyy|Latto Featuring Doja Cat|46354
+28/11/2026,89,Water At A Wedding,Greylan James,-,89,3,31,Water At A Wedding|Greylan James|46354
+28/11/2026,90,UP,ATEEZ,-,90,1,30.75,UP|ATEEZ|46354
+28/11/2026,91,Worth Your Wild,Russell Dickerson,99,91,3,30.5,Worth Your Wild|Russell Dickerson|46354
+28/11/2026,92,Ghetto Love Story,BabyChiefDoit,81,44,20,30.25,Ghetto Love Story|BabyChiefDoit|46354
+28/11/2026,93,onsra,comehelpglo,86,61,10,30,onsra|comehelpglo|46354
+28/11/2026,94,Thin Ice,Megan Thee Stallion,88,64,4,29.75,Thin Ice|Megan Thee Stallion|46354
+28/11/2026,95,Kid Myself,John Morgan,85,57,14,29.5,Kid Myself|John Morgan|46354
+28/11/2026,96,Impulsive,Thekidszn,92,90,5,29.25,Impulsive|Thekidszn|46354
+28/11/2026,97,Medicine,Megan Moroney,-,39,8,29,Medicine|Megan Moroney|46354
+28/11/2026,98,God I'm Just Grateful,Elevation Worship & Chandler Moore,100,87,11,28.67,God I'm Just Grateful|Elevation Worship & Chandler Moore|46354
+28/11/2026,99,Dance With Me,Bruno Mars,-,42,5,28.33,Dance With Me|Bruno Mars|46354
+28/11/2026,100,Mr. Do Something,Lil Baby,48,48,2,28,Mr. Do Something|Lil Baby|46354
 21/11/2026,1,Choosin' Texas,Ella Langley,1,1,56,221,Choosin' Texas|Ella Langley|46347
 21/11/2026,2,Boston,Stella Lefty,5,2,32,154,Boston|Stella Lefty|46347
-21/11/2026,3,Dracula,Tame Impala & JENNIE,3,3,59,147,Dracula|Tame Impala & JENNIE|46347
+21/11/2026,3,Dracula,Tame Impala & JENNIE,3,3,59,147.5,Dracula|Tame Impala & JENNIE|46347
 21/11/2026,4,Housewife,Tate McRae,4,2,4,147,Housewife|Tate McRae|46347
 21/11/2026,5,Stupid Song,Olivia Rodrigo,10,3,22,131,Stupid Song|Olivia Rodrigo|46347
 21/11/2026,6,BbY WOW,Karol G With Judeline & rusowsky,8,6,14,125,BbY WOW|Karol G With Judeline & rusowsky|46347
 21/11/2026,7,Nicole Kidman,ADELA,7,6,10,123,Nicole Kidman|ADELA|46347
 21/11/2026,8,Hate That I Made You Love Me,Ariana Grande,9,1,24,119,Hate That I Made You Love Me|Ariana Grande|46347
-21/11/2026,9,Been By Now,Morgan Wallen,6,2,16,117,Been By Now|Morgan Wallen|46347
+21/11/2026,9,Been By Now,Morgan Wallen,6,2,16,117.5,Been By Now|Morgan Wallen|46347
 21/11/2026,10,Patient Zero,Taylor Swift,11,1,7,117,Patient Zero|Taylor Swift|46347
-21/11/2026,11,Jaded,Koe Wetzel & Ella Langley,18,11,14,106,Jaded|Koe Wetzel & Ella Langley|46347
+21/11/2026,11,Jaded,Koe Wetzel & Ella Langley,18,11,14,106.5,Jaded|Koe Wetzel & Ella Langley|46347
 21/11/2026,12,Stop The Wedding!,Ashe,30,12,10,106,Stop The Wedding!|Ashe|46347
 21/11/2026,13,Babydoll,Dominic Fike,16,10,40,104,Babydoll|Dominic Fike|46347
 21/11/2026,14,Last Christmas,Wham!,37,2,55,102,Last Christmas|Wham!|46347
 21/11/2026,15,I Just Might,Bruno Mars,17,1,44,101,I Just Might|Bruno Mars|46347
-21/11/2026,16,Loving Life Again,Ella Langley,20,16,34,100,Loving Life Again|Ella Langley|46347
+21/11/2026,16,Loving Life Again,Ella Langley,20,16,34,100.5,Loving Life Again|Ella Langley|46347
 21/11/2026,17,Expectations,Olivia Rodrigo & Chappell Roan,15,3,22,100,Expectations|Olivia Rodrigo & Chappell Roan|46347
 21/11/2026,18,All I Want For Christmas Is You,Mariah Carey,39,1,81,98,All I Want For Christmas Is You|Mariah Carey|46347
 21/11/2026,19,Lies,Zach Bryan Featuring Lana Del Rey,19,4,4,96,Lies|Zach Bryan Featuring Lana Del Rey|46347
 21/11/2026,20,Be Her,Ella Langley,22,2,39,93,Be Her|Ella Langley|46347
 21/11/2026,21,Last Thing You Need,Morgan Wallen,27,9,8,87,Last Thing You Need|Morgan Wallen|46347
-21/11/2026,22,Mr. Know It All,Teddy Swims,25,22,30,86,Mr. Know It All|Teddy Swims|46347
-21/11/2026,23,Earrings,Malcolm Todd,26,17,37,86,Earrings|Malcolm Todd|46347
-21/11/2026,24,Midnight Sun,Zara Larsson,23,12,43,86,Midnight Sun|Zara Larsson|46347
+21/11/2026,22,Mr. Know It All,Teddy Swims,25,22,30,86.75,Mr. Know It All|Teddy Swims|46347
+21/11/2026,23,Earrings,Malcolm Todd,26,17,37,86.5,Earrings|Malcolm Todd|46347
+21/11/2026,24,Midnight Sun,Zara Larsson,23,12,43,86.25,Midnight Sun|Zara Larsson|46347
 21/11/2026,25,Dead Fresh,Lil Baby,41,18,17,86,Dead Fresh|Lil Baby|46347
 21/11/2026,26,My Body Isn't Ready,sombr,42,26,20,84,My Body Isn't Ready|sombr|46347
 21/11/2026,27,Ain't In LA,ADELA,28,24,15,82,Ain't In LA|ADELA|46347
 21/11/2026,28,Jingle Bell Rock,Bobby Helms,-,2,69,81,Jingle Bell Rock|Bobby Helms|46347
-21/11/2026,29,Janice STFU,Drake,29,1,26,79,Janice STFU|Drake|46347
+21/11/2026,29,Janice STFU,Drake,29,1,26,79.5,Janice STFU|Drake|46347
 21/11/2026,30,Rockin' Around The Christmas Tree,Brenda Lee,-,1,72,79,Rockin' Around The Christmas Tree|Brenda Lee|46347
-21/11/2026,31,Take Me Back (Leave Me There),Cody Johnson,46,31,13,75,Take Me Back (Leave Me There)|Cody Johnson|46347
-21/11/2026,32,take me home (4 christmas),Olivia Rodrigo,-,32,1,75,take me home (4 christmas)|Olivia Rodrigo|46347
+21/11/2026,31,Take Me Back (Leave Me There),Cody Johnson,46,31,13,75.5,Take Me Back (Leave Me There)|Cody Johnson|46347
+21/11/2026,32,Take Me Home (4 Christmas),Olivia Rodrigo,-,32,1,75,Take Me Home (4 Christmas)|Olivia Rodrigo|46347
 21/11/2026,33,The Cure,Olivia Rodrigo,34,5,25,74,The Cure|Olivia Rodrigo|46347
-21/11/2026,34,Animal,KATSEYE,32,24,16,71,Animal|KATSEYE|46347
+21/11/2026,34,Animal,KATSEYE,32,24,16,71.5,Animal|KATSEYE|46347
 21/11/2026,35,Orbiter,Noah Kahan,38,33,29,71,Orbiter|Noah Kahan|46347
 21/11/2026,36,Petal,Ariana Grande,31,4,15,69,Petal|Ariana Grande|46347
-21/11/2026,37,Babydoll,Jamie Miller,45,37,8,67,Babydoll|Jamie Miller|46347
-21/11/2026,38,Ya Hit,"Future Featuring Drake, Travis Scott & Loe Shimmy",-,38,1,67,"Ya Hit|Future Featuring Drake, Travis Scott & Loe Shimmy|46347"
+21/11/2026,37,Babydoll,Jamie Miller,45,37,8,67.67,Babydoll|Jamie Miller|46347
+21/11/2026,38,Ya Hit,"Future Featuring Drake, Travis Scott & Loe Shimmy",-,38,1,67.33,"Ya Hit|Future Featuring Drake, Travis Scott & Loe Shimmy|46347"
 21/11/2026,39,Loser,Tame Impala,36,18,16,67,Loser|Tame Impala|46347
 21/11/2026,40,Rethink Some Things,Luke Combs,33,29,33,66,Rethink Some Things|Luke Combs|46347
 21/11/2026,41,So Good,Jhene Aiko Featuring Kendrick Lamar,43,26,9,65,So Good|Jhene Aiko Featuring Kendrick Lamar|46347
-21/11/2026,42,Lush Life,Zara Larsson,40,35,34,63,Lush Life|Zara Larsson|46347
+21/11/2026,42,Lush Life,Zara Larsson,40,35,34,63.5,Lush Life|Zara Larsson|46347
 21/11/2026,43,Santa Tell Me,Ariana Grande,-,5,37,63,Santa Tell Me|Ariana Grande|46347
-21/11/2026,44,WTF GOIN,Belly Gang Kushington & 21 Savage,44,43,12,60,WTF GOIN|Belly Gang Kushington & 21 Savage|46347
+21/11/2026,44,WTF GOIN,Belly Gang Kushington & 21 Savage,44,43,12,60.5,WTF GOIN|Belly Gang Kushington & 21 Savage|46347
 21/11/2026,45,Underneath The Tree,Kelly Clarkson,-,7,40,60,Underneath The Tree|Kelly Clarkson|46347
-21/11/2026,46,Great Expectation,Sienna Spiro,47,38,19,59,Great Expectation|Sienna Spiro|46347
+21/11/2026,46,Great Expectation,Sienna Spiro,47,38,19,59.5,Great Expectation|Sienna Spiro|46347
 21/11/2026,47,It's The Most Wonderful Time Of The Year,Andy Williams,-,5,53,59,It's The Most Wonderful Time Of The Year|Andy Williams|46347
 21/11/2026,48,Mr. Do Something,Lil Baby,-,48,1,58,Mr. Do Something|Lil Baby|46347
 21/11/2026,49,Oh Yeah?,Steve Lacy,50,19,15,57,Oh Yeah?|Steve Lacy|46347
 21/11/2026,50,"Phone, Keys, Wallet",Lainey Wilson & John Mayer,48,43,23,56,"Phone, Keys, Wallet|Lainey Wilson & John Mayer|46347"
-21/11/2026,51,Empty Words,Corey Kent,52,43,22,54,Empty Words|Corey Kent|46347
+21/11/2026,51,Empty Words,Corey Kent,52,43,22,54.5,Empty Words|Corey Kent|46347
 21/11/2026,52,Nothing,Steve Lacy,61,52,8,54,Nothing|Steve Lacy|46347
-21/11/2026,53,Get To Drinkin',Zach John King,54,53,10,52,Get To Drinkin'|Zach John King|46347
+21/11/2026,53,Get To Drinkin',Zach John King,54,53,10,52.5,Get To Drinkin'|Zach John King|46347
 21/11/2026,54,Coming Up Roses,Harry Styles,55,18,9,52,Coming Up Roses|Harry Styles|46347
-21/11/2026,55,Think As You Drunk,Riley Green,51,31,20,51,Think As You Drunk|Riley Green|46347
+21/11/2026,55,Think As You Drunk,Riley Green,51,31,20,51.5,Think As You Drunk|Riley Green|46347
 21/11/2026,56,Solar Eclipse,Drake & Don Toliver,49,5,6,51,Solar Eclipse|Drake & Don Toliver|46347
 21/11/2026,57,Something To Lose,Stella Lefty With Vincent Mason,53,40,24,50,Something To Lose|Stella Lefty With Vincent Mason|46347
 21/11/2026,58,Self Aware,Temper City,56,35,31,48,Self Aware|Temper City|46347
-21/11/2026,59,Bloodstream,Alyssa Grace,58,45,19,47,Bloodstream|Alyssa Grace|46347
-21/11/2026,60,Top Uh It,Lil Baby,-,60,1,47,Top Uh It|Lil Baby|46347
-21/11/2026,61,The Feeling,Steve Lacy,67,60,17,47,The Feeling|Steve Lacy|46347
+21/11/2026,59,Bloodstream,Alyssa Grace,58,45,19,47.75,Bloodstream|Alyssa Grace|46347
+21/11/2026,60,Top Uh It,Lil Baby,-,60,1,47.5,Top Uh It|Lil Baby|46347
+21/11/2026,61,The Feeling,Steve Lacy,67,60,17,47.25,The Feeling|Steve Lacy|46347
 21/11/2026,62,Cold Shoulder,"Drake, Don Toliver & Yebba",60,18,6,47,"Cold Shoulder|Drake, Don Toliver & Yebba|46347"
-21/11/2026,63,AH HA,Cardi B,57,25,15,44,AH HA|Cardi B|46347
-21/11/2026,64,Painted You Pretty,Hudson Westbrook,68,64,12,44,Painted You Pretty|Hudson Westbrook|46347
-21/11/2026,65,Freakin' Out,Dexter And The Moonrocks,59,33,34,44,Freakin' Out|Dexter And The Moonrocks|46347
+21/11/2026,63,AH HA,Cardi B,57,25,15,44.75,AH HA|Cardi B|46347
+21/11/2026,64,Painted You Pretty,Hudson Westbrook,68,64,12,44.5,Painted You Pretty|Hudson Westbrook|46347
+21/11/2026,65,Freakin' Out,Dexter And The Moonrocks,59,33,34,44.25,Freakin' Out|Dexter And The Moonrocks|46347
 21/11/2026,66,Cowgirl,Shaboozey,65,42,19,44,Cowgirl|Shaboozey|46347
 21/11/2026,67,Say So,Dan + Shay,66,66,10,43,Say So|Dan + Shay|46347
 21/11/2026,68,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",77,62,4,42,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46347"
 21/11/2026,69,All My Partnas,"Lil Baby, Young Thug, Rylo Rodriguez & Future",-,69,1,40,"All My Partnas|Lil Baby, Young Thug, Rylo Rodriguez & Future|46347"
-21/11/2026,70,From The Back,Lil Baby,-,70,1,38,From The Back|Lil Baby|46347
+21/11/2026,70,From The Back,Lil Baby,-,70,1,38.5,From The Back|Lil Baby|46347
 21/11/2026,71,Quebec,Drake,62,11,6,38,Quebec|Drake|46347
-21/11/2026,72,String By,Mack Geiger,87,71,12,37,String By|Mack Geiger|46347
+21/11/2026,72,String By,Mack Geiger,87,71,12,37.5,String By|Mack Geiger|46347
 21/11/2026,73,Pouring,Mack Geiger,-,73,1,37,Pouring|Mack Geiger|46347
-21/11/2026,74,Burnt Shit,Lil Baby,-,74,1,36,Burnt Shit|Lil Baby|46347
-21/11/2026,75,No Need For Leavin',Kameron Marlowe,-,75,8,36,No Need For Leavin'|Kameron Marlowe|46347
-21/11/2026,76,Snakeskin Boots,Miranda Lambert & Ella Langley,69,42,6,36,Snakeskin Boots|Miranda Lambert & Ella Langley|46347
+21/11/2026,74,Burnt Shit,Lil Baby,-,74,1,36.75,Burnt Shit|Lil Baby|46347
+21/11/2026,75,No Need For Leavin',Kameron Marlowe,-,75,8,36.5,No Need For Leavin'|Kameron Marlowe|46347
+21/11/2026,76,Snakeskin Boots,Miranda Lambert & Ella Langley,69,42,6,36.25,Snakeskin Boots|Miranda Lambert & Ella Langley|46347
 21/11/2026,77,Draw You Out,Noah Kahan,84,25,6,36,Draw You Out|Noah Kahan|46347
 21/11/2026,78,Hands Up,Jelly Roll,74,74,13,35,Hands Up|Jelly Roll|46347
-21/11/2026,79,Cigarette Smoke,Olivia Rodrigo,86,27,10,34,Cigarette Smoke|Olivia Rodrigo|46347
-21/11/2026,80,Ain’t Goin,Lil Baby,-,80,1,34,Ain’t Goin|Lil Baby|46347
+21/11/2026,79,Cigarette Smoke,Olivia Rodrigo,86,27,10,34.67,Cigarette Smoke|Olivia Rodrigo|46347
+21/11/2026,80,Ain’t Goin,Lil Baby,-,80,1,34.33,Ain’t Goin|Lil Baby|46347
 21/11/2026,81,Ghetto Love Story,BabyChiefDoit,71,44,19,34,Ghetto Love Story|BabyChiefDoit|46347
-21/11/2026,82,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,72,58,7,33,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46347
-21/11/2026,83,Bet On That,Blake Whiten,81,81,12,33,Bet On That|Blake Whiten|46347
+21/11/2026,82,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,72,58,7,33.67,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46347
+21/11/2026,83,Bet On That,Blake Whiten,81,81,12,33.33,Bet On That|Blake Whiten|46347
 21/11/2026,84,Duvet,boa,79,75,8,33,Duvet|boa|46347
-21/11/2026,85,Kid Myself,John Morgan,76,57,13,32,Kid Myself|John Morgan|46347
-21/11/2026,86,onsra,comehelpglo,88,61,9,32,onsra|comehelpglo|46347
-21/11/2026,87,Be There In A Minute,Thomas Rhett,-,87,1,32,Be There In A Minute|Thomas Rhett|46347
+21/11/2026,85,Kid Myself,John Morgan,76,57,13,32.75,Kid Myself|John Morgan|46347
+21/11/2026,86,onsra,comehelpglo,88,61,9,32.5,onsra|comehelpglo|46347
+21/11/2026,87,Be There In A Minute,Thomas Rhett,-,87,1,32.25,Be There In A Minute|Thomas Rhett|46347
 21/11/2026,88,Thin Ice,Megan Thee Stallion,64,64,3,32,Thin Ice|Megan Thee Stallion|46347
-21/11/2026,89,Be The One,Lil Baby,-,89,1,31,Be The One|Lil Baby|46347
-21/11/2026,90,Dying In This House,Mack Geiger,-,90,1,31,Dying In This House|Mack Geiger|46347
+21/11/2026,89,Be The One,Lil Baby,-,89,1,31.67,Be The One|Lil Baby|46347
+21/11/2026,90,Dying In This House,Mack Geiger,-,90,1,31.33,Dying In This House|Mack Geiger|46347
 21/11/2026,91,Anytime Soon,Jason Aldean,93,91,2,31,Anytime Soon|Jason Aldean|46347
-21/11/2026,92,Impulsive,Thekidszn,94,90,4,30,Impulsive|Thekidszn|46347
+21/11/2026,92,Impulsive,Thekidszn,94,90,4,30.5,Impulsive|Thekidszn|46347
 21/11/2026,93,Okayyy,Latto Featuring Doja Cat,97,93,2,30,Okayyy|Latto Featuring Doja Cat|46347
-21/11/2026,94,Country And She Knows It,Luke Bryan,63,51,10,29,Country And She Knows It|Luke Bryan|46347
-21/11/2026,95,Unethical,Faouzia,-,95,1,29,Unethical|Faouzia|46347
+21/11/2026,94,Country And She Knows It,Luke Bryan,63,51,10,29.67,Country And She Knows It|Luke Bryan|46347
+21/11/2026,95,Unethical,Faouzia,-,95,1,29.33,Unethical|Faouzia|46347
 21/11/2026,96,Sue Me,Audrey Hobert,78,57,16,29,Sue Me|Audrey Hobert|46347
-21/11/2026,97,My Way,Riley Green,85,60,17,28,My Way|Riley Green|46347
-21/11/2026,98,Your Fault,Lil Baby,-,98,1,28,Your Fault|Lil Baby|46347
-21/11/2026,99,Worth Your Wild,Russell Dickerson,99,99,2,28,Worth Your Wild|Russell Dickerson|46347
+21/11/2026,97,My Way,Riley Green,85,60,17,28.75,My Way|Riley Green|46347
+21/11/2026,98,Your Fault,Lil Baby,-,98,1,28.5,Your Fault|Lil Baby|46347
+21/11/2026,99,Worth Your Wild,Russell Dickerson,99,99,2,28.25,Worth Your Wild|Russell Dickerson|46347
 21/11/2026,100,God I'm Just Grateful,Elevation Worship & Chandler Moore,92,87,10,28,God I'm Just Grateful|Elevation Worship & Chandler Moore|46347
 14/11/2026,1,Choosin' Texas,Ella Langley,1,1,55,236,Choosin' Texas|Ella Langley|46340
 14/11/2026,2,Thriller,Michael Jackson,20,2,28,177,Thriller|Michael Jackson|46340
@@ -110,12 +210,12 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 14/11/2026,9,Hate That I Made You Love Me,Ariana Grande,10,1,23,121,Hate That I Made You Love Me|Ariana Grande|46340
 14/11/2026,10,Stupid Song,Olivia Rodrigo,12,3,21,120,Stupid Song|Olivia Rodrigo|46340
 14/11/2026,11,Patient Zero,Taylor Swift,8,1,6,117,Patient Zero|Taylor Swift|46340
-14/11/2026,12,Ghostbusters,Ray Parker Jr.,-,1,27,114,Ghostbusters|Ray Parker Jr.|46340
+14/11/2026,12,Ghostbusters,Ray Parker Jr.,-,1,27,114.5,Ghostbusters|Ray Parker Jr.|46340
 14/11/2026,13,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",-,1,43,114,"Monster Mash|Bobby ""Boris"" Pickett And The Crypt-Kickers|46340"
-14/11/2026,14,Somebody's Watching Me,Rockwell,39,2,24,110,Somebody's Watching Me|Rockwell|46340
+14/11/2026,14,Somebody's Watching Me,Rockwell,39,2,24,110.5,Somebody's Watching Me|Rockwell|46340
 14/11/2026,15,Expectations,Olivia Rodrigo & Chappell Roan,7,3,21,110,Expectations|Olivia Rodrigo & Chappell Roan|46340
 14/11/2026,16,Babydoll,Dominic Fike,13,10,39,108,Babydoll|Dominic Fike|46340
-14/11/2026,17,I Just Might,Bruno Mars,14,1,43,103,I Just Might|Bruno Mars|46340
+14/11/2026,17,I Just Might,Bruno Mars,14,1,43,103.5,I Just Might|Bruno Mars|46340
 14/11/2026,18,Jaded,Koe Wetzel & Ella Langley,15,15,13,103,Jaded|Koe Wetzel & Ella Langley|46340
 14/11/2026,19,Lies,Zach Bryan Featuring Lana Del Rey,11,4,3,101,Lies|Zach Bryan Featuring Lana Del Rey|46340
 14/11/2026,20,Loving Life Again,Ella Langley,16,16,33,98,Loving Life Again|Ella Langley|46340
@@ -123,81 +223,81 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 14/11/2026,22,Be Her,Ella Langley,17,2,38,89,Be Her|Ella Langley|46340
 14/11/2026,23,Midnight Sun,Zara Larsson,18,12,42,88,Midnight Sun|Zara Larsson|46340
 14/11/2026,24,Risk It All,Bruno Mars,19,4,36,86,Risk It All|Bruno Mars|46340
-14/11/2026,25,Mr. Know It All,Teddy Swims,26,25,29,84,Mr. Know It All|Teddy Swims|46340
+14/11/2026,25,Mr. Know It All,Teddy Swims,26,25,29,84.5,Mr. Know It All|Teddy Swims|46340
 14/11/2026,26,Earrings,Malcolm Todd,21,17,36,84,Earrings|Malcolm Todd|46340
 14/11/2026,27,Last Thing You Need,Morgan Wallen,22,9,7,83,Last Thing You Need|Morgan Wallen|46340
 14/11/2026,28,Ain't In LA,ADELA,24,24,14,80,Ain't In LA|ADELA|46340
-14/11/2026,29,Janice STFU,Drake,25,1,25,79,Janice STFU|Drake|46340
+14/11/2026,29,Janice STFU,Drake,25,1,25,79.5,Janice STFU|Drake|46340
 14/11/2026,30,Stop The Wedding!,Ashe,23,23,9,79,Stop The Wedding!|Ashe|46340
-14/11/2026,31,Petal,Ariana Grande,37,4,14,77,Petal|Ariana Grande|46340
+14/11/2026,31,Petal,Ariana Grande,37,4,14,77.5,Petal|Ariana Grande|46340
 14/11/2026,32,Animal,KATSEYE,27,24,15,77,Animal|KATSEYE|46340
 14/11/2026,33,Rethink Some Things,Luke Combs,29,29,32,75,Rethink Some Things|Luke Combs|46340
 14/11/2026,34,The Cure,Olivia Rodrigo,30,5,24,69,The Cure|Olivia Rodrigo|46340
-14/11/2026,35,"Spooky, Scary Skeletons (Undead Tombstone Remix)",Andrew Gold,-,35,1,68,"Spooky, Scary Skeletons (Undead Tombstone Remix)|Andrew Gold|46340"
+14/11/2026,35,"Spooky, Scary Skeletons (Undead Tombstone Remix)",Andrew Gold,-,35,1,68.5,"Spooky, Scary Skeletons (Undead Tombstone Remix)|Andrew Gold|46340"
 14/11/2026,36,Loser,Tame Impala,31,18,15,68,Loser|Tame Impala|46340
 14/11/2026,37,Last Christmas,Wham!,-,2,54,67,Last Christmas|Wham!|46340
 14/11/2026,38,Orbiter,Noah Kahan,33,33,28,65,Orbiter|Noah Kahan|46340
-14/11/2026,39,All I Want For Christmas Is You,Mariah Carey,-,1,80,64,All I Want For Christmas Is You|Mariah Carey|46340
-14/11/2026,40,Lush Life,Zara Larsson,36,35,33,64,Lush Life|Zara Larsson|46340
-14/11/2026,41,Dead Fresh,Lil Baby,32,18,16,64,Dead Fresh|Lil Baby|46340
+14/11/2026,39,All I Want For Christmas Is You,Mariah Carey,-,1,80,64.75,All I Want For Christmas Is You|Mariah Carey|46340
+14/11/2026,40,Lush Life,Zara Larsson,36,35,33,64.5,Lush Life|Zara Larsson|46340
+14/11/2026,41,Dead Fresh,Lil Baby,32,18,16,64.25,Dead Fresh|Lil Baby|46340
 14/11/2026,42,My Body Isn't Ready,sombr,34,30,19,64,My Body Isn't Ready|sombr|46340
 14/11/2026,43,So Good,Jhene Aiko Featuring Kendrick Lamar,38,26,8,62,So Good|Jhene Aiko Featuring Kendrick Lamar|46340
-14/11/2026,44,WTF GOIN,Belly Gang Kushington & 21 Savage,45,43,11,57,WTF GOIN|Belly Gang Kushington & 21 Savage|46340
-14/11/2026,45,Babydoll,Jamie Miller,47,45,7,57,Babydoll|Jamie Miller|46340
+14/11/2026,44,WTF GOIN,Belly Gang Kushington & 21 Savage,45,43,11,57.67,WTF GOIN|Belly Gang Kushington & 21 Savage|46340
+14/11/2026,45,Babydoll,Jamie Miller,47,45,7,57.33,Babydoll|Jamie Miller|46340
 14/11/2026,46,Take Me Back (Leave Me There),Cody Johnson,42,33,12,57,Take Me Back (Leave Me There)|Cody Johnson|46340
-14/11/2026,47,Great Expectation,Sienna Spiro,40,38,18,55,Great Expectation|Sienna Spiro|46340
+14/11/2026,47,Great Expectation,Sienna Spiro,40,38,18,55.5,Great Expectation|Sienna Spiro|46340
 14/11/2026,48,"Phone, Keys, Wallet",Lainey Wilson & John Mayer,43,43,22,55,"Phone, Keys, Wallet|Lainey Wilson & John Mayer|46340"
-14/11/2026,49,Solar Eclipse,Drake & Don Toliver,35,5,5,54,Solar Eclipse|Drake & Don Toliver|46340
+14/11/2026,49,Solar Eclipse,Drake & Don Toliver,35,5,5,54.5,Solar Eclipse|Drake & Don Toliver|46340
 14/11/2026,50,Oh Yeah?,Steve Lacy,44,19,14,54,Oh Yeah?|Steve Lacy|46340
 14/11/2026,51,Think As You Drunk,Riley Green,50,31,19,53,Think As You Drunk|Riley Green|46340
 14/11/2026,52,Empty Words,Corey Kent,53,43,21,50,Empty Words|Corey Kent|46340
-14/11/2026,53,Something To Lose,Stella Lefty With Vincent Mason,49,40,23,49,Something To Lose|Stella Lefty With Vincent Mason|46340
-14/11/2026,54,Get To Drinkin',Zach John King,61,54,9,49,Get To Drinkin'|Zach John King|46340
+14/11/2026,53,Something To Lose,Stella Lefty With Vincent Mason,49,40,23,49.67,Something To Lose|Stella Lefty With Vincent Mason|46340
+14/11/2026,54,Get To Drinkin',Zach John King,61,54,9,49.33,Get To Drinkin'|Zach John King|46340
 14/11/2026,55,Coming Up Roses,Harry Styles,52,18,8,49,Coming Up Roses|Harry Styles|46340
-14/11/2026,56,Self Aware,Temper City,55,35,30,47,Self Aware|Temper City|46340
-14/11/2026,57,AH HA,Cardi B,54,25,14,47,AH HA|Cardi B|46340
+14/11/2026,56,Self Aware,Temper City,55,35,30,47.67,Self Aware|Temper City|46340
+14/11/2026,57,AH HA,Cardi B,54,25,14,47.33,AH HA|Cardi B|46340
 14/11/2026,58,Bloodstream,Alyssa Grace,56,45,18,47,Bloodstream|Alyssa Grace|46340
-14/11/2026,59,Freakin' Out,Dexter And The Moonrocks,57,33,33,46,Freakin' Out|Dexter And The Moonrocks|46340
+14/11/2026,59,Freakin' Out,Dexter And The Moonrocks,57,33,33,46.5,Freakin' Out|Dexter And The Moonrocks|46340
 14/11/2026,60,Cold Shoulder,"Drake, Don Toliver & Yebba",48,18,5,46,"Cold Shoulder|Drake, Don Toliver & Yebba|46340"
 14/11/2026,61,Nothing,Steve Lacy,58,58,7,45,Nothing|Steve Lacy|46340
 14/11/2026,62,Quebec,Drake,46,11,5,44,Quebec|Drake|46340
 14/11/2026,63,Country And She Knows It,Luke Bryan,51,51,9,43,Country And She Knows It|Luke Bryan|46340
-14/11/2026,64,Thin Ice,Megan Thee Stallion,68,64,2,42,Thin Ice|Megan Thee Stallion|46340
-14/11/2026,65,Cowgirl,Shaboozey,62,42,18,42,Cowgirl|Shaboozey|46340
+14/11/2026,64,Thin Ice,Megan Thee Stallion,68,64,2,42.67,Thin Ice|Megan Thee Stallion|46340
+14/11/2026,65,Cowgirl,Shaboozey,62,42,18,42.33,Cowgirl|Shaboozey|46340
 14/11/2026,66,Say So,Dan + Shay,67,66,9,42,Say So|Dan + Shay|46340
-14/11/2026,67,The Feeling,Steve Lacy,60,60,16,41,The Feeling|Steve Lacy|46340
+14/11/2026,67,The Feeling,Steve Lacy,60,60,16,41.5,The Feeling|Steve Lacy|46340
 14/11/2026,68,Painted You Pretty,Hudson Westbrook,65,65,11,41,Painted You Pretty|Hudson Westbrook|46340
 14/11/2026,69,Snakeskin Boots,Miranda Lambert & Ella Langley,64,42,5,40,Snakeskin Boots|Miranda Lambert & Ella Langley|46340
-14/11/2026,70,Burn,BigXthaPlug Featuring Ava Max,-,70,1,35,Burn|BigXthaPlug Featuring Ava Max|46340
-14/11/2026,71,Ghetto Love Story,BabyChiefDoit,71,44,18,35,Ghetto Love Story|BabyChiefDoit|46340
+14/11/2026,70,Burn,BigXthaPlug Featuring Ava Max,-,70,1,35.67,Burn|BigXthaPlug Featuring Ava Max|46340
+14/11/2026,71,Ghetto Love Story,BabyChiefDoit,71,44,18,35.33,Ghetto Love Story|BabyChiefDoit|46340
 14/11/2026,72,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,69,58,6,35,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46340
-14/11/2026,73,"Here You Come, There You Go",Gracie Abrams,-,73,1,34,"Here You Come, There You Go|Gracie Abrams|46340"
-14/11/2026,74,Hands Up,Jelly Roll,76,74,12,34,Hands Up|Jelly Roll|46340
+14/11/2026,73,"Here You Come, There You Go",Gracie Abrams,-,73,1,34.67,"Here You Come, There You Go|Gracie Abrams|46340"
+14/11/2026,74,Hands Up,Jelly Roll,76,74,12,34.33,Hands Up|Jelly Roll|46340
 14/11/2026,75,I Like It,BigXthaPlug Featuring Loe Shimmy,-,75,1,34,I Like It|BigXthaPlug Featuring Loe Shimmy|46340
-14/11/2026,76,Kid Myself,John Morgan,73,57,12,33,Kid Myself|John Morgan|46340
-14/11/2026,77,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",85,62,3,33,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46340"
-14/11/2026,78,Sue Me,Audrey Hobert,66,57,15,33,Sue Me|Audrey Hobert|46340
+14/11/2026,76,Kid Myself,John Morgan,73,57,12,33.75,Kid Myself|John Morgan|46340
+14/11/2026,77,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",85,62,3,33.5,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46340"
+14/11/2026,78,Sue Me,Audrey Hobert,66,57,15,33.25,Sue Me|Audrey Hobert|46340
 14/11/2026,79,Duvet,boa,75,75,7,33,Duvet|boa|46340
-14/11/2026,80,Lodi When,Zach Bryan,59,22,3,32,Lodi When|Zach Bryan|46340
-14/11/2026,81,Bet On That,Blake Whiten,82,81,11,32,Bet On That|Blake Whiten|46340
+14/11/2026,80,Lodi When,Zach Bryan,59,22,3,32.67,Lodi When|Zach Bryan|46340
+14/11/2026,81,Bet On That,Blake Whiten,82,81,11,32.33,Bet On That|Blake Whiten|46340
 14/11/2026,82,South Of Sanity,Zach Top,63,63,17,32,South Of Sanity|Zach Top|46340
-14/11/2026,83,Morning Dew (Donk),Beyonce,81,26,18,31,Morning Dew (Donk)|Beyonce|46340
+14/11/2026,83,Morning Dew (Donk),Beyonce,81,26,18,31.5,Morning Dew (Donk)|Beyonce|46340
 14/11/2026,84,Draw You Out,Noah Kahan,72,25,5,31,Draw You Out|Noah Kahan|46340
-14/11/2026,85,My Way,Riley Green,78,60,16,30,My Way|Riley Green|46340
-14/11/2026,86,Cigarette Smoke,Olivia Rodrigo,94,27,9,30,Cigarette Smoke|Olivia Rodrigo|46340
-14/11/2026,87,String By,Mack Geiger,97,71,11,30,String By|Mack Geiger|46340
+14/11/2026,85,My Way,Riley Green,78,60,16,30.75,My Way|Riley Green|46340
+14/11/2026,86,Cigarette Smoke,Olivia Rodrigo,94,27,9,30.5,Cigarette Smoke|Olivia Rodrigo|46340
+14/11/2026,87,String By,Mack Geiger,97,71,11,30.25,String By|Mack Geiger|46340
 14/11/2026,88,onsra,comehelpglo,80,61,8,30,onsra|comehelpglo|46340
-14/11/2026,89,I'm Spent,Drake Featuring Loe Shimmy,91,34,14,29,I'm Spent|Drake Featuring Loe Shimmy|46340
-14/11/2026,90,Chevy Silverado,Bailey Zimmerman,89,41,20,29,Chevy Silverado|Bailey Zimmerman|46340
-14/11/2026,91,Medicine,Megan Moroney,96,39,7,29,Medicine|Megan Moroney|46340
-14/11/2026,92,God I'm Just Grateful,Elevation Worship & Chandler Moore,88,87,9,29,God I'm Just Grateful|Elevation Worship & Chandler Moore|46340
+14/11/2026,89,I'm Spent,Drake Featuring Loe Shimmy,91,34,14,29.8,I'm Spent|Drake Featuring Loe Shimmy|46340
+14/11/2026,90,Chevy Silverado,Bailey Zimmerman,89,41,20,29.6,Chevy Silverado|Bailey Zimmerman|46340
+14/11/2026,91,Medicine,Megan Moroney,96,39,7,29.4,Medicine|Megan Moroney|46340
+14/11/2026,92,God I'm Just Grateful,Elevation Worship & Chandler Moore,88,87,9,29.2,God I'm Just Grateful|Elevation Worship & Chandler Moore|46340
 14/11/2026,93,Anytime Soon,Jason Aldean,-,93,1,29,Anytime Soon|Jason Aldean|46340
-14/11/2026,94,Impulsive,Thekidszn,90,90,3,28,Impulsive|Thekidszn|46340
-14/11/2026,95,Angel Of My Dreams,JADE,70,70,2,28,Angel Of My Dreams|JADE|46340
-14/11/2026,96,Water At A Wedding,Greylan James,100,96,2,28,Water At A Wedding|Greylan James|46340
+14/11/2026,94,Impulsive,Thekidszn,90,90,3,28.75,Impulsive|Thekidszn|46340
+14/11/2026,95,Angel Of My Dreams,JADE,70,70,2,28.5,Angel Of My Dreams|JADE|46340
+14/11/2026,96,Water At A Wedding,Greylan James,100,96,2,28.25,Water At A Wedding|Greylan James|46340
 14/11/2026,97,Okayyy,Latto Featuring Doja Cat,-,97,1,28,Okayyy|Latto Featuring Doja Cat|46340
-14/11/2026,98,Kingdom Of Fear,Cameron Whitcomb,92,89,13,27,Kingdom Of Fear|Cameron Whitcomb|46340
-14/11/2026,99,Worth Your Wild,Russell Dickerson,-,99,1,27,Worth Your Wild|Russell Dickerson|46340
+14/11/2026,98,Kingdom Of Fear,Cameron Whitcomb,92,89,13,27.6,Kingdom Of Fear|Cameron Whitcomb|46340
+14/11/2026,99,Worth Your Wild,Russell Dickerson,-,99,1,27.3,Worth Your Wild|Russell Dickerson|46340
 14/11/2026,100,Pop It,Gunna,98,55,4,27,Pop It|Gunna|46340
 07/11/2026,1,Choosin' Texas,Ella Langley,1,1,54,245,Choosin' Texas|Ella Langley|46333
 07/11/2026,2,Housewife,Tate McRae,2,2,2,215,Housewife|Tate McRae|46333
@@ -208,7 +308,7 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 07/11/2026,6,Nicole Kidman,ADELA,9,6,8,139,Nicole Kidman|ADELA|46333
 07/11/2026,8,Patient Zero,Taylor Swift,5,1,5,128,Patient Zero|Taylor Swift|46333
 07/11/2026,9,BbY WOW,Karol G With Judeline & rusowsky,12,6,12,127,BbY WOW|Karol G With Judeline & rusowsky|46333
-07/11/2026,10,Hate That I Made You Love Me,Ariana Grande,11,1,22,126,Hate That I Made You Love Me|Ariana Grande|46333
+07/11/2026,10,Hate That I Made You Love Me,Ariana Grande,11,1,22,126.5,Hate That I Made You Love Me|Ariana Grande|46333
 07/11/2026,11,Lies,Zach Bryan Featuring Lana Del Rey,4,4,2,126,Lies|Zach Bryan Featuring Lana Del Rey|46333
 07/11/2026,12,Stupid Song,Olivia Rodrigo,10,3,20,125,Stupid Song|Olivia Rodrigo|46333
 07/11/2026,13,Babydoll,Dominic Fike,13,10,38,113,Babydoll|Dominic Fike|46333
@@ -216,88 +316,88 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 07/11/2026,15,Jaded,Koe Wetzel & Ella Langley,18,15,12,101,Jaded|Koe Wetzel & Ella Langley|46333
 07/11/2026,16,Loving Life Again,Ella Langley,16,16,32,98,Loving Life Again|Ella Langley|46333
 07/11/2026,17,Be Her,Ella Langley,17,2,37,94,Be Her|Ella Langley|46333
-07/11/2026,19,Midnight Sun,Zara Larsson,15,12,41,93,Midnight Sun|Zara Larsson|46333
+07/11/2026,19,Midnight Sun,Zara Larsson,15,12,41,93.5,Midnight Sun|Zara Larsson|46333
 07/11/2026,20,Risk It All,Bruno Mars,19,4,35,93,Risk It All|Bruno Mars|46333
 07/11/2026,20,Thriller,Michael Jackson,-,4,27,92,Thriller|Michael Jackson|46333
 07/11/2026,21,Earrings,Malcolm Todd,20,17,35,87,Earrings|Malcolm Todd|46333
 07/11/2026,22,Last Thing You Need,Morgan Wallen,21,9,6,86,Last Thing You Need|Morgan Wallen|46333
 07/11/2026,23,Stop The Wedding!,Ashe,28,23,8,85,Stop The Wedding!|Ashe|46333
-07/11/2026,24,Ain't In LA,ADELA,25,24,13,84,Ain't In LA|ADELA|46333
+07/11/2026,24,Ain't In LA,ADELA,25,24,13,84.5,Ain't In LA|ADELA|46333
 07/11/2026,25,Janice STFU,Drake,24,1,24,84,Janice STFU|Drake|46333
 07/11/2026,26,Mr. Know It All,Teddy Swims,29,26,28,82,Mr. Know It All|Teddy Swims|46333
 07/11/2026,27,Animal,KATSEYE,30,24,14,76,Animal|KATSEYE|46333
 07/11/2026,28,Drop Dead,Olivia Rodrigo,27,1,28,75,Drop Dead|Olivia Rodrigo|46333
-07/11/2026,29,Rethink Some Things,Luke Combs,33,29,31,74,Rethink Some Things|Luke Combs|46333
+07/11/2026,29,Rethink Some Things,Luke Combs,33,29,31,74.5,Rethink Some Things|Luke Combs|46333
 07/11/2026,30,The Cure,Olivia Rodrigo,26,5,23,74,The Cure|Olivia Rodrigo|46333
 07/11/2026,31,Loser,Tame Impala,32,18,14,72,Loser|Tame Impala|46333
 07/11/2026,32,Dead Fresh,Lil Baby,34,18,15,66,Dead Fresh|Lil Baby|46333
-07/11/2026,33,Orbiter,Noah Kahan,36,33,27,65,Orbiter|Noah Kahan|46333
-07/11/2026,34,My Body Isn't Ready,sombr,37,30,18,65,My Body Isn't Ready|sombr|46333
+07/11/2026,33,Orbiter,Noah Kahan,36,33,27,65.67,Orbiter|Noah Kahan|46333
+07/11/2026,34,My Body Isn't Ready,sombr,37,30,18,65.33,My Body Isn't Ready|sombr|46333
 07/11/2026,35,Solar Eclipse,Drake & Don Toliver,31,5,4,65,Solar Eclipse|Drake & Don Toliver|46333
-07/11/2026,36,Lush Life,Zara Larsson,41,35,32,63,Lush Life|Zara Larsson|46333
+07/11/2026,36,Lush Life,Zara Larsson,41,35,32,63.5,Lush Life|Zara Larsson|46333
 07/11/2026,37,Petal,Ariana Grande,40,4,13,63,Petal|Ariana Grande|46333
-07/11/2026,38,So Good,Jhene Aiko Featuring Kendrick Lamar,44,26,7,61,So Good|Jhene Aiko Featuring Kendrick Lamar|46333
+07/11/2026,38,So Good,Jhene Aiko Featuring Kendrick Lamar,44,26,7,61.5,So Good|Jhene Aiko Featuring Kendrick Lamar|46333
 07/11/2026,39,Somebody's Watching Me,Rockwell,-,2,23,61,Somebody's Watching Me|Rockwell|46333
-07/11/2026,40,Great Expectation,Sienna Spiro,38,38,17,59,Great Expectation|Sienna Spiro|46333
+07/11/2026,40,Great Expectation,Sienna Spiro,38,38,17,59.5,Great Expectation|Sienna Spiro|46333
 07/11/2026,41,This Is Halloween,The Citizens of Halloween,-,26,5,59,This Is Halloween|The Citizens of Halloween|46333
 07/11/2026,42,Take Me Back (Leave Me There),Cody Johnson,43,33,11,58,Take Me Back (Leave Me There)|Cody Johnson|46333
 07/11/2026,43,"Phone, Keys, Wallet",Lainey Wilson & John Mayer,48,43,21,57,"Phone, Keys, Wallet|Lainey Wilson & John Mayer|46333"
-07/11/2026,44,Oh Yeah?,Steve Lacy,42,19,13,56,Oh Yeah?|Steve Lacy|46333
+07/11/2026,44,Oh Yeah?,Steve Lacy,42,19,13,56.5,Oh Yeah?|Steve Lacy|46333
 07/11/2026,45,WTF GOIN,Belly Gang Kushington & 21 Savage,46,43,10,56,WTF GOIN|Belly Gang Kushington & 21 Savage|46333
 07/11/2026,46,Quebec,Drake,39,11,4,54,Quebec|Drake|46333
-07/11/2026,47,Babydoll,Jamie Miller,72,47,6,52,Babydoll|Jamie Miller|46333
-07/11/2026,48,Cold Shoulder,"Drake, Don Toliver & Yebba",47,18,4,52,"Cold Shoulder|Drake, Don Toliver & Yebba|46333"
-07/11/2026,49,Something To Lose,Stella Lefty With Vincent Mason,55,40,22,52,Something To Lose|Stella Lefty With Vincent Mason|46333
-07/11/2026,50,Think As You Drunk,Riley Green,52,31,18,52,Think As You Drunk|Riley Green|46333
+07/11/2026,47,Babydoll,Jamie Miller,72,47,6,52.8,Babydoll|Jamie Miller|46333
+07/11/2026,48,Cold Shoulder,"Drake, Don Toliver & Yebba",47,18,4,52.6,"Cold Shoulder|Drake, Don Toliver & Yebba|46333"
+07/11/2026,49,Something To Lose,Stella Lefty With Vincent Mason,55,40,22,52.4,Something To Lose|Stella Lefty With Vincent Mason|46333
+07/11/2026,50,Think As You Drunk,Riley Green,52,31,18,52.2,Think As You Drunk|Riley Green|46333
 07/11/2026,51,Country And She Knows It,Luke Bryan,65,51,8,52,Country And She Knows It|Luke Bryan|46333
 07/11/2026,52,Coming Up Roses,Harry Styles,73,18,7,50,Coming Up Roses|Harry Styles|46333
-07/11/2026,53,Empty Words,Corey Kent,59,43,20,49,Empty Words|Corey Kent|46333
-07/11/2026,54,AH HA,Cardi B,57,25,13,49,AH HA|Cardi B|46333
+07/11/2026,53,Empty Words,Corey Kent,59,43,20,49.67,Empty Words|Corey Kent|46333
+07/11/2026,54,AH HA,Cardi B,57,25,13,49.33,AH HA|Cardi B|46333
 07/11/2026,55,Self Aware,Temper City,58,35,29,49,Self Aware|Temper City|46333
-07/11/2026,56,Bloodstream,Alyssa Grace,54,45,17,48,Bloodstream|Alyssa Grace|46333
+07/11/2026,56,Bloodstream,Alyssa Grace,54,45,17,48.5,Bloodstream|Alyssa Grace|46333
 07/11/2026,57,Freakin' Out,Dexter And The Moonrocks,56,33,32,48,Freakin' Out|Dexter And The Moonrocks|46333
-07/11/2026,58,Nothing,Steve Lacy,63,58,6,47,Nothing|Steve Lacy|46333
+07/11/2026,58,Nothing,Steve Lacy,63,58,6,47.5,Nothing|Steve Lacy|46333
 07/11/2026,59,Lodi When,Zach Bryan,22,22,2,47,Lodi When|Zach Bryan|46333
-07/11/2026,60,The Feeling,Steve Lacy,61,60,15,46,The Feeling|Steve Lacy|46333
+07/11/2026,60,The Feeling,Steve Lacy,61,60,15,46.5,The Feeling|Steve Lacy|46333
 07/11/2026,61,Get To Drinkin',Zach John King,66,61,8,46,Get To Drinkin'|Zach John King|46333
-07/11/2026,62,Cowgirl,Shaboozey,67,42,17,42,Cowgirl|Shaboozey|46333
+07/11/2026,62,Cowgirl,Shaboozey,67,42,17,42.5,Cowgirl|Shaboozey|46333
 07/11/2026,63,South Of Sanity,Zach Top,74,63,16,42,South Of Sanity|Zach Top|46333
-07/11/2026,64,Snakeskin Boots,Miranda Lambert & Ella Langley,68,42,4,41,Snakeskin Boots|Miranda Lambert & Ella Langley|46333
+07/11/2026,64,Snakeskin Boots,Miranda Lambert & Ella Langley,68,42,4,41.5,Snakeskin Boots|Miranda Lambert & Ella Langley|46333
 07/11/2026,65,Painted You Pretty,Hudson Westbrook,75,65,10,41,Painted You Pretty|Hudson Westbrook|46333
 07/11/2026,66,Sue Me,Audrey Hobert,69,57,14,40,Sue Me|Audrey Hobert|46333
-07/11/2026,67,Say So,Dan + Shay,77,67,8,39,Say So|Dan + Shay|46333
+07/11/2026,67,Say So,Dan + Shay,77,67,8,39.5,Say So|Dan + Shay|46333
 07/11/2026,68,Thin Ice,Megan Thee Stallion,-,68,1,39,Thin Ice|Megan Thee Stallion|46333
-07/11/2026,69,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,81,58,5,38,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46333
+07/11/2026,69,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,81,58,5,38.5,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46333
 07/11/2026,70,Angel Of My Dreams,JADE,-,70,1,38,Angel Of My Dreams|JADE|46333
-07/11/2026,71,Ghetto Love Story,BabyChiefDoit,76,44,17,37,Ghetto Love Story|BabyChiefDoit|46333
-07/11/2026,72,Draw You Out,Noah Kahan,70,25,4,37,Draw You Out|Noah Kahan|46333
+07/11/2026,71,Ghetto Love Story,BabyChiefDoit,76,44,17,37.67,Ghetto Love Story|BabyChiefDoit|46333
+07/11/2026,72,Draw You Out,Noah Kahan,70,25,4,37.33,Draw You Out|Noah Kahan|46333
 07/11/2026,73,Kid Myself,John Morgan,79,57,11,37,Kid Myself|John Morgan|46333
 07/11/2026,74,Dai Dai (FIFA World Cup Official Song 2026),Shakira X Burna Boy,71,17,20,36,Dai Dai (FIFA World Cup Official Song 2026)|Shakira X Burna Boy|46333
-07/11/2026,75,Duvet,boa,80,75,6,35,Duvet|boa|46333
+07/11/2026,75,Duvet,boa,80,75,6,35.5,Duvet|boa|46333
 07/11/2026,76,Hands Up,Jelly Roll,87,76,11,35,Hands Up|Jelly Roll|46333
-07/11/2026,77,Tom And Jerry,John Mayer,-,77,1,34,Tom And Jerry|John Mayer|46333
+07/11/2026,77,Tom And Jerry,John Mayer,-,77,1,34.5,Tom And Jerry|John Mayer|46333
 07/11/2026,78,My Way,Riley Green,89,60,15,34,My Way|Riley Green|46333
-07/11/2026,79,Robot Killed The Working Man,Zach Bryan,35,35,2,33,Robot Killed The Working Man|Zach Bryan|46333
-07/11/2026,80,onsra,comehelpglo,86,61,7,33,onsra|comehelpglo|46333
-07/11/2026,81,Morning Dew (Donk),Beyonce,83,26,17,33,Morning Dew (Donk)|Beyonce|46333
+07/11/2026,79,Robot Killed The Working Man,Zach Bryan,35,35,2,33.75,Robot Killed The Working Man|Zach Bryan|46333
+07/11/2026,80,onsra,comehelpglo,86,61,7,33.5,onsra|comehelpglo|46333
+07/11/2026,81,Morning Dew (Donk),Beyonce,83,26,17,33.25,Morning Dew (Donk)|Beyonce|46333
 07/11/2026,82,Bet On That,Blake Whiten,94,82,10,33,Bet On That|Blake Whiten|46333
-07/11/2026,83,Honeybee,Olivia Rodrigo,82,9,20,32,Honeybee|Olivia Rodrigo|46333
-07/11/2026,84,Maggots For Brains,Olivia Rodrigo,85,12,20,32,Maggots For Brains|Olivia Rodrigo|46333
+07/11/2026,83,Honeybee,Olivia Rodrigo,82,9,20,32.67,Honeybee|Olivia Rodrigo|46333
+07/11/2026,84,Maggots For Brains,Olivia Rodrigo,85,12,20,32.33,Maggots For Brains|Olivia Rodrigo|46333
 07/11/2026,85,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",62,62,2,32,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46333"
-07/11/2026,86,All My Exes,Lauren Alaina Featuring Chase Matthew,64,47,10,31,All My Exes|Lauren Alaina Featuring Chase Matthew|46333
+07/11/2026,86,All My Exes,Lauren Alaina Featuring Chase Matthew,64,47,10,31.5,All My Exes|Lauren Alaina Featuring Chase Matthew|46333
 07/11/2026,87,Ahi,Karol G With Drake,88,44,12,31,Ahi|Karol G With Drake|46333
-07/11/2026,88,God I'm Just Grateful,Elevation Worship & Chandler Moore,96,87,8,30,God I'm Just Grateful|Elevation Worship & Chandler Moore|46333
-07/11/2026,89,Chevy Silverado,Bailey Zimmerman,92,41,19,30,Chevy Silverado|Bailey Zimmerman|46333
-07/11/2026,90,Impulsive,Thekidszn,98,90,2,30,Impulsive|Thekidszn|46333
-07/11/2026,91,I'm Spent,Drake Featuring Loe Shimmy,95,34,12,30,I'm Spent|Drake Featuring Loe Shimmy|46333
+07/11/2026,88,God I'm Just Grateful,Elevation Worship & Chandler Moore,96,87,8,30.8,God I'm Just Grateful|Elevation Worship & Chandler Moore|46333
+07/11/2026,89,Chevy Silverado,Bailey Zimmerman,92,41,19,30.6,Chevy Silverado|Bailey Zimmerman|46333
+07/11/2026,90,Impulsive,Thekidszn,98,90,2,30.4,Impulsive|Thekidszn|46333
+07/11/2026,91,I'm Spent,Drake Featuring Loe Shimmy,95,34,12,30.2,I'm Spent|Drake Featuring Loe Shimmy|46333
 07/11/2026,92,Kingdom Of Fear,Cameron Whitcomb,97,89,11,30,Kingdom Of Fear|Cameron Whitcomb|46333
-07/11/2026,93,Classic,Drake,90,28,8,29,Classic|Drake|46333
-07/11/2026,94,Cigarette Smoke,Olivia Rodrigo,99,27,7,29,Cigarette Smoke|Olivia Rodrigo|46333
+07/11/2026,93,Classic,Drake,90,28,8,29.67,Classic|Drake|46333
+07/11/2026,94,Cigarette Smoke,Olivia Rodrigo,99,27,7,29.33,Cigarette Smoke|Olivia Rodrigo|46333
 07/11/2026,95,Plainsman,Zach Bryan Featuring Turnpike Troubadours,45,45,2,29,Plainsman|Zach Bryan Featuring Turnpike Troubadours|46333
-07/11/2026,96,Medicine,Megan Moroney,100,39,6,28,Medicine|Megan Moroney|46333
-07/11/2026,97,String By,Mack Geiger,-,71,10,28,String By|Mack Geiger|46333
-07/11/2026,98,Pop It,Gunna,93,55,3,28,Pop It|Gunna|46333
-07/11/2026,99,What's Wrong With Me,Olivia Rodrigo & Robert Smith,-,17,18,28,What's Wrong With Me|Olivia Rodrigo & Robert Smith|46333
+07/11/2026,96,Medicine,Megan Moroney,100,39,6,28.8,Medicine|Megan Moroney|46333
+07/11/2026,97,String By,Mack Geiger,-,71,10,28.6,String By|Mack Geiger|46333
+07/11/2026,98,Pop It,Gunna,93,55,3,28.4,Pop It|Gunna|46333
+07/11/2026,99,What's Wrong With Me,Olivia Rodrigo & Robert Smith,-,17,18,28.2,What's Wrong With Me|Olivia Rodrigo & Robert Smith|46333
 07/11/2026,100,Water At A Wedding,Greylan James,-,100,1,28,Water At A Wedding|Greylan James|46333
 31/10/2026,1,Choosin' Texas,Ella Langley,2,1,53,256,Choosin' Texas|Ella Langley|46326
 31/10/2026,2,Housewife,Tate McRae,-,2,1,240,Housewife|Tate McRae|46326
@@ -311,7 +411,7 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 31/10/2026,10,Stupid Song,Olivia Rodrigo,8,3,19,132,Stupid Song|Olivia Rodrigo|46326
 31/10/2026,11,Hate That I Made You Love Me,Ariana Grande,7,1,21,129,Hate That I Made You Love Me|Ariana Grande|46326
 31/10/2026,12,BbY WOW,Karol G With Judeline & rusowsky,9,6,11,128,BbY WOW|Karol G With Judeline & rusowsky|46326
-31/10/2026,13,Babydoll,Dominic Fike,10,10,37,110,Babydoll|Dominic Fike|46326
+31/10/2026,13,Babydoll,Dominic Fike,10,10,37,110.5,Babydoll|Dominic Fike|46326
 31/10/2026,14,I Just Might,Bruno Mars,11,1,41,110,I Just Might|Bruno Mars|46326
 31/10/2026,15,Midnight Sun,Zara Larsson,12,12,40,101,Midnight Sun|Zara Larsson|46326
 31/10/2026,16,Loving Life Again,Ella Langley,16,16,31,100,Loving Life Again|Ella Langley|46326
@@ -322,82 +422,82 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 31/10/2026,21,Last Thing You Need,Morgan Wallen,15,9,5,89,Last Thing You Need|Morgan Wallen|46326
 31/10/2026,22,Lodi When,Zach Bryan,-,22,1,88,Lodi When|Zach Bryan|46326
 31/10/2026,23,I Can't Love You Anymore,Ella Langley & Morgan Wallen,20,4,26,87,I Can't Love You Anymore|Ella Langley & Morgan Wallen|46326
-31/10/2026,24,Janice STFU,Drake,21,1,23,85,Janice STFU|Drake|46326
+31/10/2026,24,Janice STFU,Drake,21,1,23,85.5,Janice STFU|Drake|46326
 31/10/2026,25,Ain't In LA,ADELA,24,24,12,85,Ain't In LA|ADELA|46326
-31/10/2026,26,The Cure,Olivia Rodrigo,22,5,22,81,The Cure|Olivia Rodrigo|46326
+31/10/2026,26,The Cure,Olivia Rodrigo,22,5,22,81.5,The Cure|Olivia Rodrigo|46326
 31/10/2026,27,Drop Dead,Olivia Rodrigo,23,1,27,81,Drop Dead|Olivia Rodrigo|46326
-31/10/2026,28,Stop The Wedding!,Ashe,34,28,7,80,Stop The Wedding!|Ashe|46326
+31/10/2026,28,Stop The Wedding!,Ashe,34,28,7,80.5,Stop The Wedding!|Ashe|46326
 31/10/2026,29,Mr. Know It All,Teddy Swims,30,29,27,80,Mr. Know It All|Teddy Swims|46326
 31/10/2026,30,Animal,KATSEYE,28,24,13,78,Animal|KATSEYE|46326
 31/10/2026,31,Solar Eclipse,Drake & Don Toliver,19,5,3,76,Solar Eclipse|Drake & Don Toliver|46326
-31/10/2026,32,Loser,Tame Impala,26,18,13,74,Loser|Tame Impala|46326
+31/10/2026,32,Loser,Tame Impala,26,18,13,74.5,Loser|Tame Impala|46326
 31/10/2026,33,Rethink Some Things,Luke Combs,31,31,30,74,Rethink Some Things|Luke Combs|46326
 31/10/2026,34,Dead Fresh,Lil Baby,27,18,14,71,Dead Fresh|Lil Baby|46326
-31/10/2026,35,Robot Killed The Working Man,Zach Bryan,-,35,1,68,Robot Killed The Working Man|Zach Bryan|46326
+31/10/2026,35,Robot Killed The Working Man,Zach Bryan,-,35,1,68.5,Robot Killed The Working Man|Zach Bryan|46326
 31/10/2026,36,Orbiter,Noah Kahan,35,33,26,68,Orbiter|Noah Kahan|46326
 31/10/2026,37,My Body Isn't Ready,sombr,32,30,17,67,My Body Isn't Ready|sombr|46326
-31/10/2026,38,Great Expectation,Sienna Spiro,38,38,16,63,Great Expectation|Sienna Spiro|46326
+31/10/2026,38,Great Expectation,Sienna Spiro,38,38,16,63.5,Great Expectation|Sienna Spiro|46326
 31/10/2026,39,Quebec,Drake,25,11,3,63,Quebec|Drake|46326
 31/10/2026,40,Petal,Ariana Grande,41,4,12,62,Petal|Ariana Grande|46326
-31/10/2026,41,Lush Life,Zara Larsson,39,35,31,61,Lush Life|Zara Larsson|46326
+31/10/2026,41,Lush Life,Zara Larsson,39,35,31,61.5,Lush Life|Zara Larsson|46326
 31/10/2026,42,Oh Yeah?,Steve Lacy,40,19,12,61,Oh Yeah?|Steve Lacy|46326
-31/10/2026,43,Take Me Back (Leave Me There),Cody Johnson,36,33,10,60,Take Me Back (Leave Me There)|Cody Johnson|46326
+31/10/2026,43,Take Me Back (Leave Me There),Cody Johnson,36,33,10,60.5,Take Me Back (Leave Me There)|Cody Johnson|46326
 31/10/2026,44,So Good,Jhene Aiko Featuring Kendrick Lamar,42,26,6,60,So Good|Jhene Aiko Featuring Kendrick Lamar|46326
-31/10/2026,45,Plainsman,Zach Bryan Featuring Turnpike Troubadours,-,45,1,59,Plainsman|Zach Bryan Featuring Turnpike Troubadours|46326
+31/10/2026,45,Plainsman,Zach Bryan Featuring Turnpike Troubadours,-,45,1,59.5,Plainsman|Zach Bryan Featuring Turnpike Troubadours|46326
 31/10/2026,46,WTF GOIN,Belly Gang Kushington & 21 Savage,43,43,9,59,WTF GOIN|Belly Gang Kushington & 21 Savage|46326
-31/10/2026,47,Cold Shoulder,"Drake, Don Toliver & Yebba",33,18,3,57,"Cold Shoulder|Drake, Don Toliver & Yebba|46326"
+31/10/2026,47,Cold Shoulder,"Drake, Don Toliver & Yebba",33,18,3,57.5,"Cold Shoulder|Drake, Don Toliver & Yebba|46326"
 31/10/2026,48,"Phone, Keys, Wallet",Lainey Wilson & John Mayer,45,45,20,57,"Phone, Keys, Wallet|Lainey Wilson & John Mayer|46326"
 31/10/2026,49,"I Knew It, I Knew You",Taylor Swift,37,1,20,56,"I Knew It, I Knew You|Taylor Swift|46326"
 31/10/2026,50,Backwards,Zach Bryan,-,50,1,55,Backwards|Zach Bryan|46326
 31/10/2026,51,You'll Get By,Zach Bryan,-,51,1,54,You'll Get By|Zach Bryan|46326
 31/10/2026,52,Think As You Drunk,Riley Green,52,31,17,53,Think As You Drunk|Riley Green|46326
-31/10/2026,53,Dog Days,Zach Bryan,-,53,1,52,Dog Days|Zach Bryan|46326
+31/10/2026,53,Dog Days,Zach Bryan,-,53,1,52.5,Dog Days|Zach Bryan|46326
 31/10/2026,54,Bloodstream,Alyssa Grace,46,45,16,52,Bloodstream|Alyssa Grace|46326
 31/10/2026,55,Something To Lose,Stella Lefty With Vincent Mason,54,40,21,51,Something To Lose|Stella Lefty With Vincent Mason|46326
-31/10/2026,56,Freakin' Out,Dexter And The Moonrocks,51,33,31,50,Freakin' Out|Dexter And The Moonrocks|46326
+31/10/2026,56,Freakin' Out,Dexter And The Moonrocks,51,33,31,50.5,Freakin' Out|Dexter And The Moonrocks|46326
 31/10/2026,57,AH HA,Cardi B,50,25,12,50,AH HA|Cardi B|46326
-31/10/2026,58,Self Aware,Temper City,53,35,28,49,Self Aware|Temper City|46326
+31/10/2026,58,Self Aware,Temper City,53,35,28,49.5,Self Aware|Temper City|46326
 31/10/2026,59,Empty Words,Corey Kent,57,43,19,49,Empty Words|Corey Kent|46326
 31/10/2026,60,Is The Blue Tangled In You?,Zach Bryan,-,60,1,48,Is The Blue Tangled In You?|Zach Bryan|46326
-31/10/2026,61,The Feeling,Steve Lacy,65,61,14,46,The Feeling|Steve Lacy|46326
-31/10/2026,62,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",-,62,1,46,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46326"
-31/10/2026,63,Nothing,Steve Lacy,62,62,5,46,Nothing|Steve Lacy|46326
+31/10/2026,61,The Feeling,Steve Lacy,65,61,14,46.75,The Feeling|Steve Lacy|46326
+31/10/2026,62,Flower In A Hurricane,"Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",-,62,1,46.5,"Flower In A Hurricane|Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard|46326"
+31/10/2026,63,Nothing,Steve Lacy,62,62,5,46.25,Nothing|Steve Lacy|46326
 31/10/2026,64,All My Exes,Lauren Alaina Featuring Chase Matthew,47,47,9,46,All My Exes|Lauren Alaina Featuring Chase Matthew|46326
-31/10/2026,65,Country And She Knows It,Luke Bryan,69,65,7,45,Country And She Knows It|Luke Bryan|46326
-31/10/2026,66,Get To Drinkin',Zach John King,68,66,7,45,Get To Drinkin'|Zach John King|46326
+31/10/2026,65,Country And She Knows It,Luke Bryan,69,65,7,45.67,Country And She Knows It|Luke Bryan|46326
+31/10/2026,66,Get To Drinkin',Zach John King,68,66,7,45.33,Get To Drinkin'|Zach John King|46326
 31/10/2026,67,Cowgirl,Shaboozey,61,42,16,45,Cowgirl|Shaboozey|46326
-31/10/2026,68,Snakeskin Boots,Miranda Lambert & Ella Langley,56,42,3,44,Snakeskin Boots|Miranda Lambert & Ella Langley|46326
-31/10/2026,69,Sue Me,Audrey Hobert,67,57,13,44,Sue Me|Audrey Hobert|46326
-31/10/2026,70,Draw You Out,Noah Kahan,48,25,3,44,Draw You Out|Noah Kahan|46326
+31/10/2026,68,Snakeskin Boots,Miranda Lambert & Ella Langley,56,42,3,44.75,Snakeskin Boots|Miranda Lambert & Ella Langley|46326
+31/10/2026,69,Sue Me,Audrey Hobert,67,57,13,44.5,Sue Me|Audrey Hobert|46326
+31/10/2026,70,Draw You Out,Noah Kahan,48,25,3,44.25,Draw You Out|Noah Kahan|46326
 31/10/2026,71,Dai Dai (FIFA World Cup Official Song 2026),Shakira X Burna Boy,59,17,19,44,Dai Dai (FIFA World Cup Official Song 2026)|Shakira X Burna Boy|46326
 31/10/2026,72,Babydoll,Jamie Miller,70,70,5,43,Babydoll|Jamie Miller|46326
 31/10/2026,73,Coming Up Roses,Harry Styles,-,18,6,42,Coming Up Roses|Harry Styles|46326
-31/10/2026,74,South Of Sanity,Zach Top,71,69,15,41,South Of Sanity|Zach Top|46326
-31/10/2026,75,Painted You Pretty,Hudson Westbrook,78,75,9,41,Painted You Pretty|Hudson Westbrook|46326
-31/10/2026,76,Ghetto Love Story,BabyChiefDoit,73,44,16,41,Ghetto Love Story|BabyChiefDoit|46326
+31/10/2026,74,South Of Sanity,Zach Top,71,69,15,41.75,South Of Sanity|Zach Top|46326
+31/10/2026,75,Painted You Pretty,Hudson Westbrook,78,75,9,41.5,Painted You Pretty|Hudson Westbrook|46326
+31/10/2026,76,Ghetto Love Story,BabyChiefDoit,73,44,16,41.25,Ghetto Love Story|BabyChiefDoit|46326
 31/10/2026,77,Say So,Dan + Shay,77,77,7,41,Say So|Dan + Shay|46326
-31/10/2026,78,Mexico Honey,Kacey Musgraves,72,39,21,40,Mexico Honey|Kacey Musgraves|46326
+31/10/2026,78,Mexico Honey,Kacey Musgraves,72,39,21,40.5,Mexico Honey|Kacey Musgraves|46326
 31/10/2026,79,Kid Myself,John Morgan,60,57,10,40,Kid Myself|John Morgan|46326
-31/10/2026,80,Duvet,boa,86,80,5,39,Duvet|boa|46326
+31/10/2026,80,Duvet,boa,86,80,5,39.5,Duvet|boa|46326
 31/10/2026,81,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,74,58,4,39,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46326
-31/10/2026,82,Honeybee,Olivia Rodrigo,76,9,19,38,Honeybee|Olivia Rodrigo|46326
+31/10/2026,82,Honeybee,Olivia Rodrigo,76,9,19,38.5,Honeybee|Olivia Rodrigo|46326
 31/10/2026,83,Morning Dew (Donk),Beyonce,75,26,16,38,Morning Dew (Donk)|Beyonce|46326
-31/10/2026,84,Babylon,Taylor Swift,58,4,4,37,Babylon|Taylor Swift|46326
-31/10/2026,85,Maggots For Brains,Olivia Rodrigo,80,12,19,37,Maggots For Brains|Olivia Rodrigo|46326
-31/10/2026,86,onsra,comehelpglo,79,61,6,37,onsra|comehelpglo|46326
+31/10/2026,84,Babylon,Taylor Swift,58,4,4,37.75,Babylon|Taylor Swift|46326
+31/10/2026,85,Maggots For Brains,Olivia Rodrigo,80,12,19,37.5,Maggots For Brains|Olivia Rodrigo|46326
+31/10/2026,86,onsra,comehelpglo,79,61,6,37.35,onsra|comehelpglo|46326
 31/10/2026,87,Hands Up,Jelly Roll,88,82,10,37,Hands Up|Jelly Roll|46326
-31/10/2026,88,Ahi,Karol G With Drake,82,44,11,36,Ahi|Karol G With Drake|46326
-31/10/2026,89,My Way,Riley Green,83,60,14,36,My Way|Riley Green|46326
-31/10/2026,90,Classic,Drake,66,28,7,36,Classic|Drake|46326
+31/10/2026,88,Ahi,Karol G With Drake,82,44,11,36.75,Ahi|Karol G With Drake|46326
+31/10/2026,89,My Way,Riley Green,83,60,14,36.5,My Way|Riley Green|46326
+31/10/2026,90,Classic,Drake,66,28,7,36.25,Classic|Drake|46326
 31/10/2026,91,Pink Clouding,Taylor Swift,64,5,4,36,Pink Clouding|Taylor Swift|46326
-31/10/2026,92,Chevy Silverado,Bailey Zimmerman,85,41,18,35,Chevy Silverado|Bailey Zimmerman|46326
-31/10/2026,93,Pop It,Gunna,55,55,2,35,Pop It|Gunna|46326
-31/10/2026,94,Bet On That,Blake Whiten,94,84,9,35,Bet On That|Blake Whiten|46326
-31/10/2026,95,I'm Spent,Drake Featuring Loe Shimmy,84,34,12,35,I'm Spent|Drake Featuring Loe Shimmy|46326
+31/10/2026,92,Chevy Silverado,Bailey Zimmerman,85,41,18,35.8,Chevy Silverado|Bailey Zimmerman|46326
+31/10/2026,93,Pop It,Gunna,55,55,2,35.6,Pop It|Gunna|46326
+31/10/2026,94,Bet On That,Blake Whiten,94,84,9,35.4,Bet On That|Blake Whiten|46326
+31/10/2026,95,I'm Spent,Drake Featuring Loe Shimmy,84,34,12,35.2,I'm Spent|Drake Featuring Loe Shimmy|46326
 31/10/2026,96,God I'm Just Grateful,Elevation Worship & Chandler Moore,90,87,7,35,God I'm Just Grateful|Elevation Worship & Chandler Moore|46326
-31/10/2026,97,Kingdom Of Fear,Cameron Whitcomb,89,89,11,34,Kingdom Of Fear|Cameron Whitcomb|46326
-31/10/2026,98,Impulsive,Thekidszn,-,98,1,34,Impulsive|Thekidszn|46326
-31/10/2026,99,Cigarette Smoke,Olivia Rodrigo,97,27,7,34,Cigarette Smoke|Olivia Rodrigo|46326
+31/10/2026,97,Kingdom Of Fear,Cameron Whitcomb,89,89,11,34.75,Kingdom Of Fear|Cameron Whitcomb|46326
+31/10/2026,98,Impulsive,Thekidszn,-,98,1,34.5,Impulsive|Thekidszn|46326
+31/10/2026,99,Cigarette Smoke,Olivia Rodrigo,97,27,7,34.25,Cigarette Smoke|Olivia Rodrigo|46326
 31/10/2026,100,Medicine,Megan Moroney,96,39,5,34,Medicine|Megan Moroney|46326
 24/10/2026,1,Patient Zero,Taylor Swift,1,1,3,335,Patient Zero|Taylor Swift|46319
 24/10/2026,2,Choosin' Texas,Ella Langley,2,1,52,253,Choosin' Texas|Ella Langley|46319
@@ -424,80 +524,80 @@ chart_date,rank,title,artist,last_week,peak_pos,weeks_on_chart,chart_points,key
 24/10/2026,23,Drop Dead,Olivia Rodrigo,23,1,26,85,Drop Dead|Olivia Rodrigo|46319
 24/10/2026,24,Ain't In LA,ADELA,29,24,11,82,Ain't In LA|ADELA|46319
 24/10/2026,25,Quebec,Drake,11,11,2,80,Quebec|Drake|46319
-24/10/2026,26,Loser,Tame Impala,31,18,12,78,Loser|Tame Impala|46319
+24/10/2026,26,Loser,Tame Impala,31,18,12,78.5,Loser|Tame Impala|46319
 24/10/2026,27,Dead Fresh,Lil Baby,27,18,13,78,Dead Fresh|Lil Baby|46319
-24/10/2026,28,Animal,KATSEYE,32,24,12,77,Animal|KATSEYE|46319
+24/10/2026,28,Animal,KATSEYE,32,24,12,77.5,Animal|KATSEYE|46319
 24/10/2026,29,What You Need,Tems,33,29,30,77,What You Need|Tems|46319
 24/10/2026,30,Mr. Know It All,Teddy Swims,35,30,26,75,Mr. Know It All|Teddy Swims|46319
 24/10/2026,31,Rethink Some Things,Luke Combs,36,31,29,73,Rethink Some Things|Luke Combs|46319
 24/10/2026,32,My Body Isn't Ready,sombr,37,30,16,69,My Body Isn't Ready|sombr|46319
-24/10/2026,33,Cold Shoulder,"Drake, Don Toliver & Yebba",18,18,2,67,"Cold Shoulder|Drake, Don Toliver & Yebba|46319"
-24/10/2026,34,Stop The Wedding!,Ashe,48,34,6,67,Stop The Wedding!|Ashe|46319
+24/10/2026,33,Cold Shoulder,"Drake, Don Toliver & Yebba",18,18,2,67.67,"Cold Shoulder|Drake, Don Toliver & Yebba|46319"
+24/10/2026,34,Stop The Wedding!,Ashe,48,34,6,67.33,Stop The Wedding!|Ashe|46319
 24/10/2026,35,Orbiter,Noah Kahan,39,33,25,67,Orbiter|Noah Kahan|46319
 24/10/2026,36,Take Me Back (Leave Me There),Cody Johnson,45,33,9,66,Take Me Back (Leave Me There)|Cody Johnson|46319
 24/10/2026,37,"I Knew It, I Knew You",Taylor Swift,30,1,19,65,"I Knew It, I Knew You|Taylor Swift|46319"
-24/10/2026,38,Great Expectation,Sienna Spiro,41,38,15,63,Great Expectation|Sienna Spiro|46319
-24/10/2026,39,Lush Life,Zara Larsson,44,35,30,63,Lush Life|Zara Larsson|46319
+24/10/2026,38,Great Expectation,Sienna Spiro,41,38,15,63.67,Great Expectation|Sienna Spiro|46319
+24/10/2026,39,Lush Life,Zara Larsson,44,35,30,63.33,Lush Life|Zara Larsson|46319
 24/10/2026,40,Oh Yeah?,Steve Lacy,43,19,11,63,Oh Yeah?|Steve Lacy|46319
 24/10/2026,41,Petal,Ariana Grande,46,4,11,62,Petal|Ariana Grande|46319
 24/10/2026,42,So Good,Jhene Aiko Featuring Kendrick Lamar,49,26,5,59,So Good|Jhene Aiko Featuring Kendrick Lamar|46319
 24/10/2026,43,WTF GOIN,Belly Gang Kushington & 21 Savage,55,43,8,58,WTF GOIN|Belly Gang Kushington & 21 Savage|46319
-24/10/2026,44,Cinderella,Mac Miller Featuring Ty Dolla $ign,47,25,23,57,Cinderella|Mac Miller Featuring Ty Dolla $ign|46319
+24/10/2026,44,Cinderella,Mac Miller Featuring Ty Dolla $ign,47,25,23,57.5,Cinderella|Mac Miller Featuring Ty Dolla $ign|46319
 24/10/2026,45,"Phone, Keys, Wallet",Lainey Wilson & John Mayer,53,45,19,57,"Phone, Keys, Wallet|Lainey Wilson & John Mayer|46319"
 24/10/2026,46,Bloodstream,Alyssa Grace,50,45,15,56,Bloodstream|Alyssa Grace|46319
 24/10/2026,47,All My Exes,Lauren Alaina Featuring Chase Matthew,65,47,8,55,All My Exes|Lauren Alaina Featuring Chase Matthew|46319
-24/10/2026,48,Draw You Out,Noah Kahan,25,25,2,53,Draw You Out|Noah Kahan|46319
-24/10/2026,49,Rein Me In,Sam Fender & Olivia Dean,61,45,30,53,Rein Me In|Sam Fender & Olivia Dean|46319
-24/10/2026,50,AH HA,Cardi B,51,25,11,53,AH HA|Cardi B|46319
-24/10/2026,51,Freakin' Out,Dexter And The Moonrocks,52,33,30,53,Freakin' Out|Dexter And The Moonrocks|46319
+24/10/2026,48,Draw You Out,Noah Kahan,25,25,2,53.8,Draw You Out|Noah Kahan|46319
+24/10/2026,49,Rein Me In,Sam Fender & Olivia Dean,61,45,30,53.6,Rein Me In|Sam Fender & Olivia Dean|46319
+24/10/2026,50,AH HA,Cardi B,51,25,11,53.4,AH HA|Cardi B|46319
+24/10/2026,51,Freakin' Out,Dexter And The Moonrocks,52,33,30,53.2,Freakin' Out|Dexter And The Moonrocks|46319
 24/10/2026,52,Think As You Drunk,Riley Green,56,31,16,53,Think As You Drunk|Riley Green|46319
-24/10/2026,53,Self Aware,Temper City,54,35,27,52,Self Aware|Temper City|46319
+24/10/2026,53,Self Aware,Temper City,54,35,27,52.5,Self Aware|Temper City|46319
 24/10/2026,54,Something To Lose,Stella Lefty With Vincent Mason,59,40,20,52,Something To Lose|Stella Lefty With Vincent Mason|46319
-24/10/2026,55,Pop It,Gunna,-,55,1,51,Pop It|Gunna|46319
+24/10/2026,55,Pop It,Gunna,-,55,1,51.5,Pop It|Gunna|46319
 24/10/2026,56,Snakeskin Boots,Miranda Lambert & Ella Langley,42,42,2,51,Snakeskin Boots|Miranda Lambert & Ella Langley|46319
-24/10/2026,57,Empty Words,Corey Kent,62,43,18,48,Empty Words|Corey Kent|46319
+24/10/2026,57,Empty Words,Corey Kent,62,43,18,48.5,Empty Words|Corey Kent|46319
 24/10/2026,58,Babylon,Taylor Swift,34,4,3,48,Babylon|Taylor Swift|46319
-24/10/2026,59,Dai Dai (FIFA World Cup Official Song 2026),Shakira X Burna Boy,58,17,18,47,Dai Dai (FIFA World Cup Official Song 2026)|Shakira X Burna Boy|46319
+24/10/2026,59,Dai Dai (FIFA World Cup Official Song 2026),Shakira X Burna Boy,58,17,18,47.5,Dai Dai (FIFA World Cup Official Song 2026)|Shakira X Burna Boy|46319
 24/10/2026,60,Kid Myself,John Morgan,57,57,9,47,Kid Myself|John Morgan|46319
 24/10/2026,61,Cowgirl,Shaboozey,64,42,15,44,Cowgirl|Shaboozey|46319
-24/10/2026,62,Nothing,Steve Lacy,72,62,4,43,Nothing|Steve Lacy|46319
-24/10/2026,63,Expectations,Olivia Rodrigo & Chappell Roan,79,20,18,43,Expectations|Olivia Rodrigo & Chappell Roan|46319
-24/10/2026,64,Pink Clouding,Taylor Swift,38,5,3,43,Pink Clouding|Taylor Swift|46319
-24/10/2026,65,The Feeling,Steve Lacy,68,65,13,43,The Feeling|Steve Lacy|46319
-24/10/2026,66,Classic,Drake,28,28,6,43,Classic|Drake|46319
+24/10/2026,62,Nothing,Steve Lacy,72,62,4,43.83,Nothing|Steve Lacy|46319
+24/10/2026,63,Expectations,Olivia Rodrigo & Chappell Roan,79,20,18,43.67,Expectations|Olivia Rodrigo & Chappell Roan|46319
+24/10/2026,64,Pink Clouding,Taylor Swift,38,5,3,43.5,Pink Clouding|Taylor Swift|46319
+24/10/2026,65,The Feeling,Steve Lacy,68,65,13,43.33,The Feeling|Steve Lacy|46319
+24/10/2026,66,Classic,Drake,28,28,6,43.17,Classic|Drake|46319
 24/10/2026,67,Sue Me,Audrey Hobert,67,57,12,43,Sue Me|Audrey Hobert|46319
 24/10/2026,68,Get To Drinkin',Zach John King,74,68,6,42,Get To Drinkin'|Zach John King|46319
-24/10/2026,69,Country And She Knows It,Luke Bryan,78,69,6,41,Country And She Knows It|Luke Bryan|46319
-24/10/2026,70,Babydoll,Jamie Miller,77,70,4,41,Babydoll|Jamie Miller|46319
+24/10/2026,69,Country And She Knows It,Luke Bryan,78,69,6,41.67,Country And She Knows It|Luke Bryan|46319
+24/10/2026,70,Babydoll,Jamie Miller,77,70,4,41.33,Babydoll|Jamie Miller|46319
 24/10/2026,71,South Of Sanity,Zach Top,76,69,14,41,South Of Sanity|Zach Top|46319
-24/10/2026,72,Mexico Honey,Kacey Musgraves,73,39,20,40,Mexico Honey|Kacey Musgraves|46319
+24/10/2026,72,Mexico Honey,Kacey Musgraves,73,39,20,40.5,Mexico Honey|Kacey Musgraves|46319
 24/10/2026,73,Ghetto Love Story,BabyChiefDoit,71,44,15,40,Ghetto Love Story|BabyChiefDoit|46319
-24/10/2026,74,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,69,58,3,39,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46319
+24/10/2026,74,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,69,58,3,39.5,Pink Blush|Dolly Babe Featuring Megan Thee Stallion|46319
 24/10/2026,75,Morning Dew (Donk),Beyonce,66,26,15,39,Morning Dew (Donk)|Beyonce|46319
-24/10/2026,76,Honeybee,Olivia Rodrigo,80,9,18,38,Honeybee|Olivia Rodrigo|46319
-24/10/2026,77,Say So,Dan + Shay,84,77,6,38,Say So|Dan + Shay|46319
+24/10/2026,76,Honeybee,Olivia Rodrigo,80,9,18,38.67,Honeybee|Olivia Rodrigo|46319
+24/10/2026,77,Say So,Dan + Shay,84,77,6,38.33,Say So|Dan + Shay|46319
 24/10/2026,78,Painted You Pretty,Hudson Westbrook,85,78,8,38,Painted You Pretty|Hudson Westbrook|46319
-24/10/2026,79,onsra,comehelpglo,70,61,5,37,onsra|comehelpglo|46319
-24/10/2026,80,Maggots For Brains,Olivia Rodrigo,75,12,18,37,Maggots For Brains|Olivia Rodrigo|46319
+24/10/2026,79,onsra,comehelpglo,70,61,5,37.67,onsra|comehelpglo|46319
+24/10/2026,80,Maggots For Brains,Olivia Rodrigo,75,12,18,37.33,Maggots For Brains|Olivia Rodrigo|46319
 24/10/2026,81,Cleveland!,Taylor Swift,40,3,3,37,Cleveland!|Taylor Swift|46319
-24/10/2026,82,Ahi,Karol G With Drake,88,44,10,35,Ahi|Karol G With Drake|46319
-24/10/2026,83,My Way,Riley Green,81,60,13,35,My Way|Riley Green|46319
-24/10/2026,84,I'm Spent,Drake Featuring Loe Shimmy,63,34,11,35,I'm Spent|Drake Featuring Loe Shimmy|46319
+24/10/2026,82,Ahi,Karol G With Drake,88,44,10,35.75,Ahi|Karol G With Drake|46319
+24/10/2026,83,My Way,Riley Green,81,60,13,35.5,My Way|Riley Green|46319
+24/10/2026,84,I'm Spent,Drake Featuring Loe Shimmy,63,34,11,35.25,I'm Spent|Drake Featuring Loe Shimmy|46319
 24/10/2026,85,Chevy Silverado,Bailey Zimmerman,82,41,17,35,Chevy Silverado|Bailey Zimmerman|46319
 24/10/2026,86,Duvet,boa,87,82,4,34,Duvet|boa|46319
-24/10/2026,87,String By,Mack Geiger,89,71,9,33,String By|Mack Geiger|46319
+24/10/2026,87,String By,Mack Geiger,89,71,9,33.5,String By|Mack Geiger|46319
 24/10/2026,88,Hands Up,Jelly Roll,91,82,9,33,Hands Up|Jelly Roll|46319
 24/10/2026,89,Kingdom Of Fear,Cameron Whitcomb,97,89,10,32,Kingdom Of Fear|Cameron Whitcomb|46319
 24/10/2026,90,God I'm Just Grateful,Elevation Worship & Chandler Moore,92,87,6,31,God I'm Just Grateful|Elevation Worship & Chandler Moore|46319
-24/10/2026,91,What's Wrong With Me,Olivia Rodrigo & Robert Smith,100,17,17,30,What's Wrong With Me|Olivia Rodrigo & Robert Smith|46319
-24/10/2026,92,Bass Persuades,Miley,90,35,6,30,Bass Persuades|Miley|46319
-24/10/2026,93,Kinda Love It,Lainey Wilson,-,93,1,30,Kinda Love It|Lainey Wilson|46319
+24/10/2026,91,What's Wrong With Me,Olivia Rodrigo & Robert Smith,100,17,17,30.75,What's Wrong With Me|Olivia Rodrigo & Robert Smith|46319
+24/10/2026,92,Bass Persuades,Miley,90,35,6,30.5,Bass Persuades|Miley|46319
+24/10/2026,93,Kinda Love It,Lainey Wilson,-,93,1,30.25,Kinda Love It|Lainey Wilson|46319
 24/10/2026,94,Bet On That,Blake Whiten,86,84,8,30,Bet On That|Blake Whiten|46319
-24/10/2026,95,Another Drink,Marshmello & Kelsea Ballerini,-,60,10,29,Another Drink|Marshmello & Kelsea Ballerini|46319
+24/10/2026,95,Another Drink,Marshmello & Kelsea Ballerini,-,60,10,29.5,Another Drink|Marshmello & Kelsea Ballerini|46319
 24/10/2026,96,Medicine,Megan Moroney,-,39,4,29,Medicine|Megan Moroney|46319
-24/10/2026,97,Cigarette Smoke,Olivia Rodrigo,-,27,6,28,Cigarette Smoke|Olivia Rodrigo|46319
-24/10/2026,98,Damned If I Do,Vincent Mason,-,77,12,28,Damned If I Do|Vincent Mason|46319
-24/10/2026,99,Dance With Me,Bruno Mars,95,42,4,28,Dance With Me|Bruno Mars|46319
+24/10/2026,97,Cigarette Smoke,Olivia Rodrigo,-,27,6,28.75,Cigarette Smoke|Olivia Rodrigo|46319
+24/10/2026,98,Damned If I Do,Vincent Mason,-,77,12,28.5,Damned If I Do|Vincent Mason|46319
+24/10/2026,99,Dance With Me,Bruno Mars,95,42,4,28.25,Dance With Me|Bruno Mars|46319
 24/10/2026,100,Less,Olivia Rodrigo,-,21,10,28,Less|Olivia Rodrigo|46319
 17/10/2026,1,Patient Zero,Taylor Swift,1,1,2,341,Patient Zero|Taylor Swift|46312
 17/10/2026,2,Choosin' Texas,Ella Langley,2,1,51,263,Choosin' Texas|Ella Langley|46312
